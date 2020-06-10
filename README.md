@@ -458,7 +458,7 @@ Feng, and Hochheiser.
 Florencio & Herley</span>](https://cormac.herley.org/docs/www2007.pdf)
 (2007)
 
-*Discussion lead: \<use suggestion mode to replace this with your
+*Discussion lead: \<submit a pull request to replace this with your
 name\>*
 
   - > [<span class="underline">Experimenting at Scale With Google
