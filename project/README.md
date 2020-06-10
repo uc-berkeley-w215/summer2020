@@ -13,7 +13,7 @@ proposal is due in case you have chosen a topic that is out of scope or
 not well-scoped.
 
 You may use the class’s running list of [<span class="underline">project
-ideas</span>](https://docs.google.com/document/d/1SlhInJtaxfcPb1ltGdAo8s15Z0YizTFRrqgCMJ2gnd0/edit).
+ideas</span>](./ideas.md).
 
 **You will want to get started early**, seek feedback early, pilot
 early, and leave time for many revisions of your study materials. In the
