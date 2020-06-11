@@ -4,7 +4,9 @@ You will design a research protocol to evaluate human behaviors or
 attitudes that impact security or privacy in computing systems, writing
 up the protocol as if it were an (incomplete) research paper and
 presentation. (Incomplete because you will not have time to run the
-study or get results.) Pilot any components that can be piloted in the
+study or get results.)
+
+Pilot any components that can be piloted in the
 time available, and/or use peers from other project groups to identify
 ways to improve your protocol. Project groups will be either 2-3 people.
 
@@ -29,7 +31,7 @@ will go through more iterations than you have time for during this term,
 often with over a dozen iterations of test materials and two to four
 pilot studies. One of the things you will be learning this term is that
 the human-subjects studies you read are the results of lots of work
-you’re likely to never see, and far more work than most people
+you are unlikely to read about in the paper, and far more work than most people
 understand.
 
 **New this term**, we have a budget of $100/student for running studies,
@@ -57,6 +59,8 @@ into writing a crisp and clear definition of the problem you want to
 investigate or hypothesis you wish to test, and then 20% of effort into
 saying which research method (survey, lab study, field study, etc.)
 would best apply to the problem.
+
+What decisions do you intend the results of your study to inform? For example, is there a technology that you or others might choose to adopt or avoid based on the results of a study?  Are you identifying pain points or challenges that will help you or your organization determine which problems still need to be addressed in a design?  Will you be identifying users concerns so that you can better quantify them with a follow-up study so that they can be address down the road?  In short, what are the possible benefits of this study?
 
 Please submit at least two paragraphs before the sync session, and be
 prepared to answer questions about what you wrote. Send a link to your
