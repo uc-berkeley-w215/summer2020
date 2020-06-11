@@ -60,7 +60,11 @@ investigate or hypothesis you wish to test, and then 20% of effort into
 saying which research method (survey, lab study, field study, etc.)
 would best apply to the problem.
 
-What decisions do you intend the results of your study to inform? For example, is there a technology that you or others might choose to adopt or avoid based on the results of a study?  Are you identifying pain points or challenges that will help you or your organization determine which problems still need to be addressed in a design?  Will you be identifying users concerns so that you can better quantify them with a follow-up study so that they can be address down the road?  In short, what are the possible benefits of this study?
+To motivate your research, please explain the possible impact of your research on your organization or on the broader world. What decisions might be better informed by the results of your study?
+For example, is there a technology that you or others might choose to adopt or avoid based on the results of a study?
+Are you identifying pain points or challenges that will help you or your organization determine which problems still need to be addressed in a design?
+Will you be identifying users concerns so that you can better quantify them with a follow-up study so that they can be address down the road?
+Are there benefits to the study that cannot be expressed as decisions that might be changed or resources that might be alloated differently based on the possible outcomes?
 
 Please submit at least two paragraphs before the sync session, and be
 prepared to answer questions about what you wrote. Send a link to your
