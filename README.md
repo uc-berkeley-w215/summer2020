@@ -522,7 +522,7 @@ would best apply to the problem.
 
   - Submit a proposed course project idea
 
-### Share the idea as a Google doc with at least two paragraphs, share a link to it to the course slack channel at least an hour before the sync session, and be prepared to answer questions about what you wrote during the session.
+Share the idea as a Google doc with at least two paragraphs, share a link to it to the course slack channel at least an hour before the sync session, and be prepared to answer questions about what you wrote during the session.
 
 ### Synchronous discussion agenda
 
