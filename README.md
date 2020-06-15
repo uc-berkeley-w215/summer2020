@@ -11,7 +11,7 @@ Office hours: Mondays @ 4:00pm Pacific
 ### Instructors
 
 > Cristian Bravo-Lillo cristian.bravo \<a\> gmail.com
-> 
+>
 > Stuart Schechter, imposter \<at\> berkeley.edu
 
 ### Course Lead
@@ -21,7 +21,7 @@ Office hours: Mondays @ 4:00pm Pacific
 ### Original Course Creators & Video Lecturers
 
 > [Maritza Johnson](http://maritzajohnson.com/), UC Berkeley School of Information
-> 
+>
 > [Serge Egelman](https://www.guanotronic.com/~serge/), UC Berkeley and International Computer Science
 > Institute
 
@@ -77,14 +77,14 @@ program or permission of the instructor.
   - > Async responses and reflections (10%)
 
   - > Live session participation (20%)
-    
+
       - > You will lead the discussion of 1-3 papers (depending on
         > course enrollment)
 
   - > Assignments (10%)
-    
+
       - > Traditional homeworks
-    
+
       - > Acting as reviewer or pilot participant for other teams’
         > course projects
 
@@ -161,66 +161,50 @@ you'll want to read the guidelines on [leading paper discussions](/leading-paper
 (Required) *Research Methods in Human-Computer Interaction* by Lazar,
 Feng, and Hochheiser.
 
+
+
 # Schedule
 
 ## Unit 1: Human–Computer Interaction – *May 7*
 
 ### Readings due
 
-  - > Lazar et al., **Skim** Chapter 1: “Introduction” (or just read the
-    > end-of-chapter summary)
+  - Lazar et al., **Skim** Chapter 1: “Introduction” (or just read the end-of-chapter summary)
 
-  - > Lazar et al., Chapter 2: “Experimental Research”
+  - Lazar et al., Chapter 2: “Experimental Research”
 
-  - > [<span class="underline">Password Security, A Case
-    > History</span>](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.128.1635&rep=rep1&type=pdf),
-    > by Morris and Thompson, which describes an early experiment in
-    > computer security.
+  - [<span class="underline">Password Security, A Case History</span>](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.128.1635&rep=rep1&type=pdf), by Morris and Thompson, which describes an early experiment in computer security.
 
-  - > [<span class="underline">Why Johnny Can’t
-    > Encrypt</span>](http://citeseerx.ist.psu.edu/viewdoc/summary?doi=10.1.1.40.9279),
-    > by Whitten and Tygar.
+  - [<span class="underline">Why Johnny Can’t Encrypt</span>](http://citeseerx.ist.psu.edu/viewdoc/summary?doi=10.1.1.40.9279), by Whitten and Tygar.
 
-  - > [<span class="underline">Simson Garfinkel’s
-    > Thesis</span>](https://simson.net/thesis/), Chapter 1.1–1.5, pp.
-    > 13–34, and Chapter 10.3 Patterns for Overall Security
+  - [<span class="underline">Simson Garfinkel’s Thesis</span>](https://simson.net/thesis/), Chapter 1.1–1.5, pp. 13–34, and Chapter 10.3 Patterns for Overall Security
 
-### Assignments due 
+### Assignments due
 
-  - > Submit as **assignment 1** a list of three user interfaces or user
-    > experiences *related to security or privacy* that you find most
-    > infuriating or would most want to fix. Be prepared to talk about
-    > them in class during introductions. You may include not only stuff
-    > that happened personally to you, but either to your family or
-    > friends, or even things that you observed at your work among your
-    > colleagues.
+Submit as **assignment 1** a list of three user interfaces or user experiences *related to security or privacy* that you find most infuriating or would most want to fix. Be prepared to talk about them in class during introductions. You may include not only stuff that happened personally to you, but either to your family or friends, or even things that you observed at your work among your colleagues.
 
 ### Synchronous discussion agenda
 
-  - > Introductions and discussion of personal experiences with usable
-    > security & privacy (see assignments) \[Cristian\]
+  - Introductions and discussion of personal experiences with usable security & privacy (see assignments) \[Cristian\]
 
-  - > Course overview \[Stuart\]
-    
-      - > Seminar style (explain what that means)
-    
-      - > The midterm, project, and class participation dominate grading
-    
-      - > Project: get started early and expect lots of bugs, even the
-        > pros require many iterations (and still mess things up in the
-        > final problem)
-    
-      - > Project funding ($100/person)
+  - Course overview \[Stuart\]
 
-  - > Course participation options (\#uc\_berkeley\_w215) \[Stuart\]
+      - Seminar style (explain what that means)
 
-  - > Answer administrative questions \[Cristian\]
+      - The midterm, project, and class participation dominate grading
 
-  - > Discussion of readings \[Cristian: Simson Garfinkel’s
-    > Thesis\]\[Stuart:Why Johnny Can’t Encrypt, Password Security, a
-    > Case History\]
+      - Project: get started early and expect lots of bugs, even the pros require many iterations (and still mess things up in the final problem)
 
-##   
+      - Project funding ($100/person)
+
+  - Course participation options (\#uc\_berkeley\_w215) \[Stuart\]
+
+  - Answer administrative questions \[Cristian\]
+
+  - Discussion of readings:
+	- \[Cristian: Simson Garfinkel’s Thesis\]
+	- \[Stuart:Why Johnny Can’t Encrypt, Password Security, a Case History\]
+
 
 ## Unit 2: Studying Decision making – *May 14*
 
@@ -240,9 +224,9 @@ Feng, and Hochheiser.
     > Research”</span>](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3272525/),
     > by Kim.
 
-### Assignments due 
+### Assignments due
 
-1.  > Complete the IRB training by following the instructions here:  
+1.  > Complete the IRB training by following the instructions here:
     > [<span class="underline">https://cphs.berkeley.edu/training.html</span>](https://cphs.berkeley.edu/training.html).
     > Make sure that you complete the “Group 2 (soc-behav) Human
     > Subjects Curriculum.” Submit a PDF of your completion certificate
@@ -257,19 +241,19 @@ Feng, and Hochheiser.
 
 3.  > Please spend a few minutes writing down your thoughts to each of
     > the questions and be prepared to share them with the class.
-    
+
     1.  > What are some examples of security interfaces that you use in
         > your daily life that lead to irrational behaviors? (You may
         > start with the examples you and your classmates came up with
         > last week.)
-    
+
     2.  > What specific biases might impact computer security
         > decision-making and how?
-    
+
     3.  > What sort of problems are IRBs likely to prevent?
-    
+
     4.  > What problems are they unlikely to prevent?
-    
+
     5.  > Should private companies use IRBs for their human-subjects
         > research?
 
@@ -289,7 +273,7 @@ Feng, and Hochheiser.
   - > Discussion of questions if time available (assignment part 3)
     > \[Cristian\]
 
-##   
+
 
 ## Unit 3: Research Methods: Experimental – *May 21*
 
@@ -305,10 +289,10 @@ Feng, and Hochheiser.
     > Studies</span>](http://commerce.net/wp-content/uploads/2012/04/The%20Emperors_New_Security_Indicators.pdf),
     > by Schechter et al.
 
-### Assignments due 
+### Assignments due
 
   - > **Heuristic evaluation** (a method discussed in the async lecture
-    > for this unit)**  
+    > for this unit)**
     > **Perform a heuristic evaluation of a security feature in your web
     > browser or on a website. You may do this either in pairs, or
     > individually. You may find useful the classic article on
@@ -335,7 +319,7 @@ Feng, and Hochheiser.
     > focusing on when conducting the evaluation.
 
 4.  > Provide suggestions on how any potential problems could be
-    > improved.  
+    > improved.
     > *Your suggestion might be a new design, change to a feature, or it
     > might be a suggestion for additional empirical research.*
 
@@ -353,7 +337,7 @@ Feng, and Hochheiser.
 > issues in the latest version of your product. How would you go about
 > designing a study to determine how prevalent this problem is across
 > your user base?”*
-> 
+>
 > The class will be split into groups of 3 students, so that each group
 > designs a study to examine one of the following products and
 > associated usability issues:
@@ -383,6 +367,7 @@ Feng, and Hochheiser.
 > how human subjects may help you answer that question. This discussion
 > will be wrapped up during Unit 4, where you will read about research
 > methods to complete your task.
+
 
 ## Unit 4: Research Methods: Descriptive and Relational – *May 28*
 
@@ -420,13 +405,13 @@ Feng, and Hochheiser.
 
 3.  Cristian discusses answers to async content (hard stop at 50 minutes
     after)
-    
+
     1.  > The purpose of a survey and each question are not always
         > apparent to participants.
-    
+
     2.  > Sometimes “distractor” questions exist to hide the purpose of
         > another question, or of an entire survey.
-    
+
     3.  > Providing the wording of questions, but not the answer
         > options, interferes with reviewers’ understanding of how
         > participants answered the survey.
@@ -437,7 +422,6 @@ Feng, and Hochheiser.
 5.  Stuart introduces
     [<span class="underline">projects</span>](/project/)
 
-##   
 
 ## Unit 5: Statistics – *June 4*
 
@@ -451,7 +435,7 @@ Feng, and Hochheiser.
 
   - [<span class="underline">When Security Gets in the
     Way</span>](https://jnd.org/when_security_gets_in_the_way/), by Don
-    Norman  
+    Norman
     *Discussion lead: Kai Tang*
 
 [<span class="underline">A Large-Scale Study of Web Password Habits, by
@@ -464,7 +448,7 @@ name\>*
   - > [<span class="underline">Experimenting at Scale With Google
     > Chrome’s SSL
     > Warning</span>](https://static.googleusercontent.com/media/research.google.com/en//pubs/archive/41927.pdf),
-    > by Felt et al. (2014)  
+    > by Felt et al. (2014)
     > Discussion lead: Neeraj Singh
 
 ### Assignments due
@@ -482,7 +466,6 @@ name\>*
 
   - Introduction to course project (remaining time)
 
-##   
 
 ## Unit 6: Usable Security – *June 11*
 
@@ -492,13 +475,13 @@ name\>*
 
   - > [<span class="underline">No One Can Hack My
     > Mind</span>](https://www.usenix.org/system/files/conference/soups2015/soups15-paper-ion.pdf),
-    > by Ion, Reeder, and Consolvo  
+    > by Ion, Reeder, and Consolvo
     > *Discussion lead: Neeraj Singh (back for more\!)*
 
   - > [<span class="underline">The Quest to Replace Passwords: A
     > Framework for Comparative Evaluation of Web Authentication
     > Schemes</span>](https://www.cl.cam.ac.uk/~fms27/papers/2012-BonneauHerOorSta-password--oakland.pdf),
-    > by Bonneau et al.  
+    > by Bonneau et al.
     > *Discussion lead: Christian Hercules*
 
 ### A brief note about framing a research problem
@@ -533,7 +516,7 @@ Share the idea as a Google doc with at least two paragraphs, share a link to it 
   - Students to split off into groups to discuss proposed ideas in
     depth.
 
-##   
+
 
 ## Unit 7: Privacy – *June 18*
 
@@ -542,13 +525,13 @@ Share the idea as a Google doc with at least two paragraphs, share a link to it 
   - [<span class="underline">A Taxonomy of
     Privacy</span>](https://www.law.upenn.edu/journals/lawreview/articles/volume154/issue3/Solove154U.Pa.L.Rev.477\(2006\).pdf),
     by Solove. (Please read up to page 491; that is, right before the
-    section “Information collection”)  
+    section “Information collection”)
     *Discussion lead: Bryan Everly*
 
   - [<span class="underline">Privacy Attitudes and Privacy Behavior:
     Losses, Gains, and Hyperbolic
     Discounting</span>](http://www.heinz.cmu.edu/~acquisti/papers/acquisti_grossklags_eis_refs.pdf),
-    by Acquisti and Grossklags  
+    by Acquisti and Grossklags
     *Discussion lead: Josh Arteaga*
 
   - [<span class="underline">The Effect of Online Privacy Information on
@@ -588,7 +571,7 @@ It will be open book; topics to include (but not limited to):
 
   - > Paper discussion (45 minutes)
 
-##   
+
 
 ## Unit 8: Midterm – *June 25*
 
@@ -598,7 +581,7 @@ It will be open book; topics to include (but not limited to):
 
 ### Assignments due
 
-  - > **Project proposals due 48 hours before class (June 22)**  
+  - > **Project proposals due 48 hours before class (June 22)**
     > *During those 48 hours you can focus on the midterm, and your
     > instructors will do their best to ensure there’s valuable feedback
     > waiting for you when the midterm is over or shortly thereafter.*
@@ -607,7 +590,7 @@ It will be open book; topics to include (but not limited to):
 
 > **Midterm**
 
-##   
+
 
 ## Unit 9: Authentication & Trusted Path – *July 2*
 
@@ -615,12 +598,12 @@ It will be open book; topics to include (but not limited to):
 
   - [<span class="underline">Of Passwords and People: Measuring the
     Effect of Password-Composition
-    Policies</span>](https://users.ece.cmu.edu/~mmazurek/papers/chi2011_passwords_people.pdf)  
+    Policies</span>](https://users.ece.cmu.edu/~mmazurek/papers/chi2011_passwords_people.pdf)
     *Discussion lead: Ramadhan Putra*
 
   - [<span class="underline">It’s Not What You Know, but Who You Know: A
     Social Approach to Last-Resort
-    Authentication</span>](http://robreeder.com/pubs/whoYouKnow_CHI09.pdf)  
+    Authentication</span>](http://robreeder.com/pubs/whoYouKnow_CHI09.pdf)
     *Discussion lead: Chukwunenye Nnebe*
 
 **or\*** (\* please DM the instructors before class to let them know
@@ -628,7 +611,7 @@ which you chose)
 
   - > [<span class="underline">It’s No Secret: Measuring the Security
     > and Reliability of Authentication via “Secret”
-    > Questions</span>](http://www.guanotronic.com/~serge/papers/oakland09.pdf)  
+    > Questions</span>](http://www.guanotronic.com/~serge/papers/oakland09.pdf)
     > *Discussion lead: Jacky Ho*
 
 ### Assignments due
@@ -643,7 +626,6 @@ which you chose)
 
   - > Discuss projects (remaining time)
 
-##   
 
 ## Unit 10: Access Control – July 9
 
@@ -692,7 +674,7 @@ which you chose)
 
 ### Assignments due
 
-  - > Second discussion-lead for those who haven’t done two already  
+  - > Second discussion-lead for those who haven’t done two already
     > (Previous term did: Assignment 8: Research paper summary)
 
 ### Synchronous discussion agenda
@@ -703,7 +685,7 @@ which you chose)
 
   - > Remainder of time for project team breakouts.
 
-##   
+
 
 ## Unit 11: Warnings – *July 16*
 
@@ -735,7 +717,7 @@ which you chose)
 
   - > Discuss projects progress (\~45 minutes)
 
-##   
+
 
 ## Unit 12: Mobile Permissions – *July 23*
 
@@ -745,10 +727,9 @@ which you chose)
     *Little brother’s watching you: Raising awareness of data leaks on
     smartphones.* Proceedings of the 9th Symposium on Usable Privacy and
     Security, SOUPS.
-    [<span class="underline">http://cups.cs.cmu.edu/soups/2013/proceedings/a12\_Balebako.pdf</span>](http://cups.cs.cmu.edu/soups/2013/proceedings/a12_Balebako.pdf)  
+    [<span class="underline">http://cups.cs.cmu.edu/soups/2013/proceedings/a12\_Balebako.pdf</span>](http://cups.cs.cmu.edu/soups/2013/proceedings/a12_Balebako.pdf)
     *Discussion lead: Abdulkadir Egal*
 
-### 
 
 ### Possible readings (actual readings TBD 8 days before)
 
@@ -788,7 +769,7 @@ which you chose)
   - > Project teams present their current draft study design/materials
     > (e.g. survey instrument)
 
-##   
+
 
 ## Unit 13: Secure Communication – *July 30*
 
@@ -830,7 +811,7 @@ which you chose)
 
   - > Remainder of time for project teams.
 
-##   
+
 
 ## Unit 14: Privacy Policies – *August 6*
 
