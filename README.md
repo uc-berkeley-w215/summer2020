@@ -535,7 +535,7 @@ Share the idea as a Google doc with at least two paragraphs, share a link to it 
 
 ##   
 
-## Unit 7: Privacy – *June 17*
+## Unit 7: Privacy – *June 18*
 
 ### Readings due
 
@@ -590,7 +590,7 @@ It will be open book; topics to include (but not limited to):
 
 ##   
 
-## Unit 8: Midterm – *June 24*
+## Unit 8: Midterm – *June 25*
 
 ### Readings due
 
@@ -609,7 +609,7 @@ It will be open book; topics to include (but not limited to):
 
 ##   
 
-## Unit 9: Authentication & Trusted Path – *July 1*
+## Unit 9: Authentication & Trusted Path – *July 2*
 
 ### Readings
 
@@ -645,7 +645,7 @@ which you chose)
 
 ##   
 
-## Unit 10: Access Control – July 8
+## Unit 10: Access Control – July 9
 
 ### Possible readings (actual readings TBD \~8 days in advance)
 
@@ -705,7 +705,7 @@ which you chose)
 
 ##   
 
-## Unit 11: Warnings – *July 15*
+## Unit 11: Warnings – *July 16*
 
 ### Possible readings (actual readings TBD 8 days before)
 
@@ -737,7 +737,7 @@ which you chose)
 
 ##   
 
-## Unit 12: Mobile Permissions – *July 22*
+## Unit 12: Mobile Permissions – *July 23*
 
 ### Readings
 
@@ -790,7 +790,7 @@ which you chose)
 
 ##   
 
-## Unit 13: Secure Communication – *July 29*
+## Unit 13: Secure Communication – *July 30*
 
 ### Possible readings (actual readings TBD)
 
@@ -832,7 +832,7 @@ which you chose)
 
 ##   
 
-## Unit 14: Privacy Policies – *August 5*
+## Unit 14: Privacy Policies – *August 6*
 
 ### Possible readings (actual readings TBD)
 
