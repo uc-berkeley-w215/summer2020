@@ -522,14 +522,14 @@ Share the idea as a Google doc with at least two paragraphs, share a link to it 
 
 ### Readings due
 
-  - [<span class="underline">A Taxonomy of Privacy</span>](https://www.law.upenn.edu/journals/lawreview/articles/volume154/issue3/Solove154U.Pa.L.Rev.477\(2006\).pdf), by Solove. (Please read up to page 491; that is, right before the section “Information collection”)
-    *Discussion lead: Bryan Everly*
+  - > [<span class="underline">A Taxonomy of Privacy</span>](https://www.law.upenn.edu/journals/lawreview/articles/volume154/issue3/Solove154U.Pa.L.Rev.477\(2006\).pdf), by Solove. (Please read up to page 491; that is, right before the section “Information collection”).
+    > *Discussion lead: Bryan Everly*
 
-  - [<span class="underline">Privacy Attitudes and Privacy Behavior: Losses, Gains, and Hyperbolic Discounting</span>](http://www.heinz.cmu.edu/~acquisti/papers/acquisti_grossklags_eis_refs.pdf), by Acquisti and Grossklags
-    *Discussion lead: Josh Arteaga*
+  - > [<span class="underline">Privacy Attitudes and Privacy Behavior: Losses, Gains, and Hyperbolic Discounting</span>](http://www.heinz.cmu.edu/~acquisti/papers/acquisti_grossklags_eis_refs.pdf), by Acquisti and Grossklags.
+    > *Discussion lead: Josh Arteaga*
 
-  - [<span class="underline">The Effect of Online Privacy Information on Purchasing Behavior: An Experimental Study</span>](http://www.guanotronic.com/~serge/papers/isr10.pdf) by Tsai, Egelman, Cranor, and Acquisti
-    *Discussion lead: David Ng*
+  - > [<span class="underline">The Effect of Online Privacy Information on Purchasing Behavior: An Experimental Study</span>](http://www.guanotronic.com/~serge/papers/isr10.pdf) by Tsai, Egelman, Cranor, and Acquisti.
+    > *Discussion lead: David Ng*
 
 ### Assignments due
 
