@@ -615,6 +615,15 @@ which you chose)
 
 ## Unit 10: Access Control – July 9
 
+### Readings
+  - > He, W., Golla, M., Padhi, R., Ofek, J., Durmuth, M., Fernandes,
+    > E., & Ur, B. (2018). *Rethinking access control and authentication
+    > for the home internet of things (IoT*). Proceedings of the 27th
+    > USENIX Security Symposium (USENIX Security 18).
+    > [<span class="underline">https://www.blaseur.com/papers/usenixsec18.pdf</span>](https://www.blaseur.com/papers/usenixsec18.pdf)
+    > *Discussion lead: Vimochan Cheethirala*
+
+
 ### Possible readings (actual readings TBD \~8 days in advance)
 
   - > Anderson, R. (2008) *Security engineering: A guide to building
@@ -645,12 +654,6 @@ which you chose)
     > individuals at the endpoints. *New Security Paradigms Workshop*,
     > NSPW.
     > [<span class="underline">https://academiccommons.columbia.edu/doi/10.7916/D8D79J6W/download</span>](https://academiccommons.columbia.edu/doi/10.7916/D8D79J6W/download)
-
-  - > He, W., Golla, M., Padhi, R., Ofek, J., Durmuth, M., Fernandes,
-    > E., & Ur, B. (2018). *Rethinking access control and authentication
-    > for the home internet of things (IoT*). Proceedings of the 27th
-    > USENIX Security Symposium (USENIX Security 18).
-    > [<span class="underline">https://www.blaseur.com/papers/usenixsec18.pdf</span>](https://www.blaseur.com/papers/usenixsec18.pdf)
 
   - > Jaferian, P., Rashtian, H., & Beznosov, K. (2014). *To authorize
     > or not authorize: Helping users review access policies in
