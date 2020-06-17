@@ -336,7 +336,8 @@ saying which research method (survey, lab study, field study, etc.) would best a
 
 ### Readings due
 
-  - [<span class="underline">A Taxonomy of Privacy</span>](https://www.law.upenn.edu/journals/lawreview/articles/volume154/issue3/Solove154U.Pa.L.Rev.477\(2006\).pdf), by Solove. (Please read up to page 491; that is, right before the section “Information collection”). Discussion lead: Bryan Everly*
+  - > [<span class="underline">A Taxonomy of Privacy</span>](https://www.law.upenn.edu/journals/lawreview/articles/volume154/issue3/Solove154U.Pa.L.Rev.477\(2006\).pdf), by Solove. (Please read up to page 491; that is, right before the section “Information collection”).
+    > *Discussion lead: Bryan Everly*
     
   - > [<span class="underline">Privacy Attitudes and Privacy Behavior: Losses, Gains, and Hyperbolic Discounting</span>](http://www.heinz.cmu.edu/~acquisti/papers/acquisti_grossklags_eis_refs.pdf), by Acquisti and Grossklags.
     > *Discussion lead: Josh Arteaga*
