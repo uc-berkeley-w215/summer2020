@@ -8,7 +8,8 @@ We observed students taking the exam and found that we had underestimated the ti
 
 We found students struggled most in Section 3, though perhaps they would have done better if there were a final and this type of question were used in a final.  For the next midterm, so we are likely to ask more concrete questions fewer hypotheticals about fictional studies and more concrete questions from the readings.
 
-Ironically, as Stuart wrote Section 3, the scenario in which hypothetical Stanford researchers test technology to authenticate users from images of their lips, actual Stanford researchers were busy publishing [research testing technology to establish identity from images of the opposite ends
+Ironically, as Stuart wrote about hypothetical Stanford researchers authenticating users from images of lips, actual Stanford researchers were identifying individuals from images of the opposite ends of their digestive tracts.
+ as Stuart wrote Section 3, the scenario in which hypothetical Stanford researchers test technology to authenticate users from images of their lips, actual Stanford researchers were busy publishing [research testing technology to establish identity from images of the opposite ends
  of individuals' digestive tracts](https://www.nature.com/articles/s41551-020-0534-9#auth-1).
 
 ---------------------------------------
