@@ -367,11 +367,13 @@ It will be open book; topics to include (but not limited to):
 
 ### Synchronous discussion agenda
 
-  - Project updates (45 minutes)
+  - Questions about midterm (10 minutes, Stuart)
+
+  - Response to assignment (15 minutes, Cristian)
 
   - Paper discussion (45 minutes)
 
-
+  - Project updates (15 minutes)
 
 ## Unit 8: Midterm – *June 25*
 
