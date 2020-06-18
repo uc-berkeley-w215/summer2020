@@ -10,7 +10,7 @@ Office hours: Mondays @ 4:00pm Pacific
 
 ### Instructors
 
-> Cristian Bravo-Lillo cristian.bravo \<a\> gmail.com
+> Cristian Bravo-Lillo, cbravolillo \<a\> berkeley.edu
 >
 > Stuart Schechter, imposter \<at\> berkeley.edu
 
@@ -60,7 +60,7 @@ Completion of at least one of the three core courses for the MICS degree program
 
 ## Collaboration Policy
 
-We encourage studying in groups of two to four people. This applies to working on homework, discussing material, and studying for the exam. However, students must always adhere to the UC Berkeley Code of Conduct (http://sa.berkeley.edu/code-of-conduct) and the UC Berkeley Honor Code (https://teaching.berkeley.edu/berkeley-honor-code). In particular, all materials that are turned in for credit or evaluation must be written solely by the submitting student or group. Similarly, you may consult books, publications, or online resources to help you study. In the end, you must always credit and acknowledge all consulted sources in your submission (including other persons, books, resources, etc.).
+We encourage studying in groups of two to four people. This applies to working on homework, discussing material, and studying for the exam. However, students must always adhere to the [UC Berkeley Code of Conduct](http://sa.berkeley.edu/code-of-conduct) and the [UC Berkeley Honor Code](https://teaching.berkeley.edu/berkeley-honor-code). In particular, all materials that are turned in for credit or evaluation must be written solely by the submitting student or group. Similarly, you may consult books, publications, or online resources to help you study. In the end, you must always credit and acknowledge all consulted sources in your submission (including other persons, books, resources, etc.)
 
 ## Assignments
 
