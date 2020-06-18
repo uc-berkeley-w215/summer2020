@@ -12,11 +12,11 @@
 
 ### Assignments due
 
-Complete breakout group mini-project proposal from Unit 3
+Complete breakout group mini-project proposal from Unit 3.
 
 ### Synchronous discussion agenda
 
-> *Beginning of student-led discussions of assigned papers*. You may volunteer to briefly discuss a paper (no more than 10 minutes); please read the instructions in the “Readings” section at the beginning of this document.
+> *Beginning of student-led discussions of assigned papers*. You may volunteer to briefly discuss a paper; please read the instructions in the "Readings" section.
 
 1.  Stuart leads discussion of Wimberly and Liebrock (15 min)
 2.  Ramana leads discussion of Bravo-Lillo et al. (15 min)

@@ -10,7 +10,7 @@ Office hours: Mondays @ 4:00pm Pacific
 
 ### Instructors
 
-> Cristian Bravo-Lillo cristian.bravo \<a\> gmail.com
+> Cristian Bravo-Lillo, cbravolillo \<a\> berkeley.edu
 >
 > Stuart Schechter, imposter \<at\> berkeley.edu
 
@@ -29,8 +29,7 @@ Office hours: Mondays @ 4:00pm Pacific
 
 When computers first came into prominence, security problems were mostly thought of as technical ones: vulnerabilities were exploited due to technical errors—software bugs that needed to be patched. However, as is demonstrated over and over again, the vast majority of modern software security issues stem from human factors. For instance, most software vulnerabilities are exploited because *humans* fail to apply patches in a timely manner; authentication systems that are difficult to use result in *humans* choosing weaker passwords (or bypassing security measures altogether); *humans* are tricked into downloading malware or divulging credentials via phishing; and Internet traffic is easily intercepted because *humans* fail to properly use encryption technologies.
 
-As you will learn in this course, despite the fact that many security problems are caused by human error, in most cases, the users aren’t to blame. Many security problems exist because software is simply *unusable*; when software engineers fail to account for the abilities and expectations of their users, those users will make preventable errors. Security and privacy systems can be made more usable by designing them with the user in mind, from the ground up. In this course, you will learn many of the common pitfalls of designing usable privacy and security systems, techniques for designing more usable systems, and how to evaluate privacy and security systems for usability. Through this course you will learn methods for designing software systems that are more secure because they minimize the potential for
-human error.
+As you will learn in this course, despite the fact that many security problems are caused by human error, in most cases, the users aren’t to blame. Many security problems exist because software is simply *unusable*; when software engineers fail to account for the abilities and expectations of their users, those users will make preventable errors. Security and privacy systems can be made more usable by designing them with the user in mind, from the ground up. In this course, you will learn many of the common pitfalls of designing usable privacy and security systems, techniques for designing more usable systems, and how to evaluate privacy and security systems for usability. Through this course you will learn methods for designing software systems that are more secure because they minimize the potential for human error.
 
 ## Prerequisites
 
@@ -60,7 +59,7 @@ Completion of at least one of the three core courses for the MICS degree program
 
 ## Collaboration Policy
 
-We encourage studying in groups of two to four people. This applies to working on homework, discussing material, and studying for the exam. However, students must always adhere to the UC Berkeley Code of Conduct (http://sa.berkeley.edu/code-of-conduct) and the UC Berkeley Honor Code (https://teaching.berkeley.edu/berkeley-honor-code). In particular, all materials that are turned in for credit or evaluation must be written solely by the submitting student or group. Similarly, you may consult books, publications, or online resources to help you study. In the end, you must always credit and acknowledge all consulted sources in your submission (including other persons, books, resources, etc.).
+We encourage studying in groups of two to four people. This applies to working on homework, discussing material, and studying for the exam. However, students must always adhere to the [UC Berkeley Code of Conduct](http://sa.berkeley.edu/code-of-conduct) and the [UC Berkeley Honor Code](https://teaching.berkeley.edu/berkeley-honor-code). In particular, all materials that are turned in for credit or evaluation must be written solely by the submitting student or group. Similarly, you may consult books, publications, or online resources to help you study. In the end, you must always credit and acknowledge all consulted sources in your submission (including other persons, books, resources, etc.)
 
 ## Assignments
 
