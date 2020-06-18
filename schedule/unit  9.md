@@ -7,13 +7,15 @@
     Policies</span>](https://users.ece.cmu.edu/~mmazurek/papers/chi2011_passwords_people.pdf)
     *Discussion lead: Ramadhan Putra*
 
+**and either of**
+
   - [<span class="underline">It’s Not What You Know, but Who You Know: A
     Social Approach to Last-Resort
     Authentication</span>](http://robreeder.com/pubs/whoYouKnow_CHI09.pdf)
     *Discussion lead: Chukwunenye Nnebe*
 
-**or\*** (\* please DM the instructors before class to let them know
-which you chose)
+**or** *(please DM the instructors before class to let them know
+which you chose)*
 
   - > [<span class="underline">It’s No Secret: Measuring the Security
     > and Reliability of Authentication via “Secret”

@@ -93,7 +93,6 @@ When it’s your turn to lead the 10-15 minute discussion of the paper, you'll w
 (Required) *Research Methods in Human-Computer Interaction* by Lazar, Feng, and Hochheiser.
 
 
-
 # [Schedule](/schedule)
 
  - [Unit  1](/schedule/unit\ \ 1.md)
