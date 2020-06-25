@@ -11,6 +11,8 @@
   
 ### Assignments due
 
+**Assignment 0** is to introduce yourself ot the class in the slack group. You may (but do not have to) provide such background as your prior education, work experience of relevance, and any topics of interest you have in usable privacy and security. The only requirement is that you record your name, as you would like it to be pronounced, and share the recording with your introduction.
+
 Submit as **assignment 1** a list of three user interfaces or user experiences *related to security or privacy* that you find most infuriating or would most want to fix. Be prepared to talk about them in class during introductions. You may include not only stuff that happened personally to you, but either to your family or friends, or even things that you observed at your work among your colleagues.
 
 ### Synchronous discussion agenda
