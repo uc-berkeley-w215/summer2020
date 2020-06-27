@@ -20,17 +20,24 @@ Ecological validity is often used to justify the use of deception in security st
 
 > Participants will behave differently when they know security is a purpose of a study or if they are otherwise primed to think about security, and so deception is often used so to ensure that participants do not believe security is their primary task.
 
+>> Many students thought we were looking for them to define ecological validity here or talk about deception studies in abstract.  Most didn't mention security.  We wanted to know *why* ecological validity is used to justify deception in *security* studies.  We gave 1 point for defining terms, two points if security was even mentioned, and 4 points for *either* of priming about security or making it a secondary task.  In our initial grading pass through 3/14 students' answers were marked for full credit.
+
+
 **1.2** *(4 points)*
 
 How might a budgetary constraint impact the choice between a between-subjects experiment and a within-subjects experiment?
 
 > Running a within-subjects experiment allows a researcher to collect data on multiple conditions from a single participant.  Differences in the population can be observed to be statistically significant using a smaller budget when the number of observations is greater.  In other words, a 100-participant budget would yield 100 data points for each treatment in a within-subjects experiment, but only 50 data point per treatment if between-subjects (and two treatments).
 
+>> Stuart wouldn't have picked this as the easiest question on the exam. The student has to understand the difference between within- and between-subjects and make the connection that you need fewer participants for a within-subjects study.  Happily, everyone got full credit for this question.  Some really great answers pointed out that while you may need fewer participants in a within-subjects design, you might have to pay the within-subjects participants more because there's more for each participant to do.
+
 **1.3** *(5 points)*
 
 A morale survey of a team of penetration testers reveals that one of the parts of the job they like the least is working with the static analysis tool. The survey gives no insight into why the tool is so despised. What form of study would you use to learn how to improve the tool and why?
 
 > Since you don't yet know what the problems might be, you need to perform a qualitative study to identify possible problems (e.g. interview or focus group). Only when you understand what needs to be measured could you design a survey/quantitative study.
+
+>> All we were looking for here is that students not jump in a quantitative measurement study when they don't know enough about the possible causes of employees' disdain for the tool to know what to measure. We gave full credit for any mention of a qualitative study design, any use of the word qualitative and so on.  In our initial grading pass, 10/14 were marked to get full credit.
 
 **1.4** *(8 points)*
 
@@ -40,6 +47,8 @@ Researchers are developing security software to help victims of abusive relation
 
 > The laboratory study provides researchers the opportunity to interact with participants to learn information that can't be observed remotely. *(4 points, other valid answers may substitute for this one)*
 
+>> Five students identified that a field study of an untestsed technology could put high-risk participants in harms way.  Had we provided the [instructions we are drafting for future exams](./future.md) we would require this answer.  Since we did not, we are going to have to have to work on a relaxed criterial for answers.
+
 **1.5** *(8 points)*
 
 Researchers in a between-subjects experiment find that 17 of 30 participants heed red warnings and 14 of 31 participants heed blue warnings.  The correct statistical test (Fisher's Exact Test, two tailed) yields a p value of 0.4462, far above the 0.05 threshold to show a significant difference.  The researchers conclude that color has no impact on warnings.  Give two reasons why they might be wrong.
@@ -48,6 +57,7 @@ Researchers in a between-subjects experiment find that 17 of 30 participants hee
 
 >2. Even if we knew for certain there was no difference between red and green, we cannot conclude there is no other color that would have made a difference. (A matter of external validity.) *(4 points)*
 
+>> Only 3 partipants pointed out that the two groups were different, and that one cannot conclude the null hypothesis (no difference) is true simply because there wasn't enough evidence to disprove the null hypothesis.  We expected that would be clear given that performance between the two groups differed by so much (>10%).  If we haven't made a glaring error in how we asked the question, we need to make sure a background on what hypothesis tests can and can't do is either part of a recorded lecture, assignment, or discussed in sync section.
 
 **1.6** *(11 points)*
 
@@ -63,6 +73,11 @@ Identify the dependent variable(s), the independent variable(s), and the number 
 
 > (c) 6 groups: 5 treatments + 1 control  (4 points for 6, 2 points if missing the control)
 
+>> In the first grading pass, only about half of students got credit for identifying dependent variables and fewer for independent.  We'd thought these terms were defined well enough in the materials and online.
+
+>> To take off points for not having the control, we hsould have asked about "which work, and which work best".  We should allow 5 or 6 for treatment groups, possibly with a bonus 1-2 points for those who brought up a control group.
+
+
 -----------------------------
 
 # Section 2: Readings  *(9 questions, 52 points)*
@@ -75,17 +90,23 @@ In which reading did the authors assert without evidence that their technologica
 
 > Morris and Thompson stated that password rules make users "very safe indeed."
 
+>> The "very safe indeed" was discussed in class as the primary criticism of this paper, but 7 weeks had passed and only  but only 6 students recalled this paper.
+
 **2.2** *(5 points)*:
 
 In which reading did the researchers conduct a field experiment using a browser toolbar?
 
 > Florencio & Herley
 
+>> The browser toolbar was part of our class discussion and one could search the paper to find it.  9/14 students were able to recall this paper.
+
 **2.3** *(5 points)*:
 
 In which reading were the traditional authentication categories of *something you have, something you know, and something you are* reintroduced as *something that you have forgotten, lost, or no longer are*?
 
 > Garfinkel's thesis
+
+>> This was discussed in class and we thought that in less than five minutes one could search on "something that you have forgotten" in each of the paper documents or a web search with that tring and the first author of each paper.  We figured those who knew it would need only half that time.
 
 **2.4** *(6 points)*:
 
@@ -95,11 +116,15 @@ In which reading did the researchers test whether participants would behave more
 
 > No. *(3 points)*
 
+>> 8/14 identified the paper and 7/14 answered the question about it correctly.  (This number may be high because there were a few students who guessed this paper for other answers figuring the instructor would cite his own paper somewhere.  So, we might exclude questions on this paper next time.)
+
 **2.5** *(5 points)*:
 
 A friend wants to meet to ask you to invest in a company to re-invent web authentication. Which of our readings do you ask them to read first and why?
 
 > Bonneau et al.'s quest to replace passwords.
+
+>> 11/14 papers identfied Bonneau et al., which was one of the more recently discussed.
 
 **2.6** *(8 points)*:
 
@@ -109,11 +134,15 @@ During the six-month trial, Dr. Driver's security team detects 23 employees in t
 
 > Wimberly and Liebrock's Using Fingerprint Authentication to Reduce System Security.  Employees who believed anti-malware was protecting them may have behaved more recklessly: e.g., installing software they might have avoided if they did not have faith in the additional layer of defense protecting them. *(4 points for paper, 4 points for explanation)*
 
+>> Stuart discussed the exact scenario of anti-virus in class, but only 3/14 identified this paper.  Six, however, provided some for of explanation based on a paper discussed in class and so we'll have to make judgement calls.
+
 **2.7** *(6 points)*
 
 In the paper “Operating system framed in case of mistaken identity”, by Bravo-Lillo et al., the authors studied how likely it was for users to enter their passwords in spoofed security pop-ups. A relatively large proportion of users did not enter their passwords but were nevertheless considered likely to fall for other scams similar to the one used in the paper. Explain briefly why this is so.
 
 > Participants didn't enter the password because they didn't want to install software, not because they didn't believe the password-dialog was created by the operating system.
+
+>> Roughly half got this right.
 
 **2.8** *(6 points)*:
 
@@ -121,8 +150,12 @@ In the paper “Experimenting at scale with Google Chrome’s SSL Warnings”, b
 
 > Each experimental treatment has a risk of harm. As the number of participants goes up, the marginal value of each participant to the statistical analysis decreases, whereas the aggregate risk grows linearly with the number of participants.
 
+>> This was another queston that came directly from class discussion, where Stuart had asked why they might not have done a larger study and a student raied the issue of risk of harm to participants if the treatment was less effective than the control.  Four students mentioned the risk outweighing the dimninishing benefit, with partial credit in initial grading for those who mentioned diminishing benefits but not costs.  (Since the question describes "no additional cost", diminishing returns alone would not be a reason not to incrase the number of participants.)
+
 **2.9** *(6 points)*:
 
 You redesign a browser security warning and run a security study similar to that of Felt et al.'s "Experimenting at Scale with Google Chrome's SSL Warning."  The fraction of participants who ignore the warning drops from 40% to 20%, but a year later the fraction returns to 37%.  You then introduce yet another new design, the rate drops back to 20%, but again it returns to 38% a year later.  There is no change to risk over time, as the number of warnings that are actually false positives and false negatives stays constant.  What explains this phenomenon?
 
 > Novelty effect causes attention to the warning when a redesign is released and habituation causes users to ignore the design over time.
+
+>> Nine students mentioned "novelty", "habituation", or quoted the portion of the paper that explained the effect.  There weren't many wrong answers here among the people who had time to answer.
