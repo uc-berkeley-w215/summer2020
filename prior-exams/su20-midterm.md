@@ -20,7 +20,7 @@ Ecological validity is often used to justify the use of deception in security st
 
 > Participants will behave differently when they know security is a purpose of a study or if they are otherwise primed to think about security, and so deception is often used so to ensure that participants do not believe security is their primary task.
 
->> Many students thought we were looking for them to define ecological validity here or talk about deception studies in abstract.  Most didn't mention security.  We wanted to know *why* ecological validity is used to justify deception in *security* studies.  We gave 1 point for defining terms, two points if security was even mentioned, and 4 points for *either* of priming about security or making it a secondary task.  In our initial grading pass through 3/14 students' answers were marked for full credit.
+>> Many students thought we were looking for them to define ecological validity here or talk about deception studies in abstract.  Most didn't mention security.  We wanted to know *why* ecological validity is used to justify deception in *security* studies.  We gave 1 point for defining terms, 2 points if the answer talked about reducing bias abstractly (but not connecting to security), 3 points for indicating that knowing the purpose of the study might be the source of the bias (but still not explaining how it would bias a security study), and 4 points for connecting ecological validity to security studies, for which *either* of priming about security or making security a secondary task were sufficient for full credit.  In our initial grading pass through 3/14 students' answers were marked for full credit.
 
 
 **1.2** *(4 points)*
@@ -58,6 +58,8 @@ Researchers in a between-subjects experiment find that 17 of 30 participants hee
 >2. Even if we knew for certain there was no difference between red and green, we cannot conclude there is no other color that would have made a difference. (A matter of external validity.) *(4 points)*
 
 >> Only 3 partipants pointed out that the two groups were different, and that one cannot conclude the null hypothesis (no difference) is true simply because there wasn't enough evidence to disprove the null hypothesis.  We expected that would be clear given that performance between the two groups differed by so much (>10%).  If we haven't made a glaring error in how we asked the question, we need to make sure a background on what hypothesis tests can and can't do is either part of a recorded lecture, assignment, or discussed in sync section.
+
+>> A number of students suggested that the researchers might be wrong because participants could be color blind.  Participants being color blind, and thus unable to tell the difference between warnings of two colors, would work in favor of the hypothesis that there is no difference between the groups.  In a population with some fraction of color blindness, there would still be a proportion of the population where color is noticed, and to prove that color has no effect you'd have to prove that it has no effect for those who might notice.  (Regardless, in a study where participants are randomly assigned to groups, color blind participants would be equaly likely to be assigned to either group.)
 
 **1.6** *(11 points)*
 
@@ -116,7 +118,7 @@ In which reading did the researchers test whether participants would behave more
 
 > No. *(3 points)*
 
->> 8/14 identified the paper and 7/14 answered the question about it correctly.  (This number may be high because there were a few students who guessed this paper for other answers figuring the instructor would cite his own paper somewhere.  So, we might exclude questions on this paper next time.)
+>> 8/14 identified the intended paper and 7/14 answered the question about it correctly.  (This number may be high because there were a few students who guessed this paper for other answers figuring the instructor would cite his own paper somewhere.  So, we might exclude questions on this paper next time.)
 
 **2.5** *(5 points)*:
 
