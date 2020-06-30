@@ -153,7 +153,7 @@ In the paper “Experimenting at scale with Google Chrome’s SSL Warnings”, b
 
 > Each experimental treatment has a risk of harm. As the number of participants goes up, the marginal value of each participant to the statistical analysis decreases, whereas the aggregate risk grows linearly with the number of participants.
 
->> This was another queston that came directly from class discussion, where Stuart had asked why they might not have done a larger study and a student raied the issue of risk of harm to participants if the treatment was less effective than the control.  Four students mentioned the risk outweighing the dimninishing benefit, with partial credit in initial grading for those who mentioned diminishing benefits but not costs.  (Since the question describes "no additional cost", diminishing returns alone would not be a reason not to incrase the number of participants.)
+>> This was another queston that came directly from class discussion, where Stuart had asked why they might not have done a larger study and a student raied the issue of risk of harm to participants if the treatment was less effective than the control.  Four students mentioned the risk outweighing the dimninishing benefit, with partial credit (3 points) for those who mentioned diminishing benefits but not costs.  (Since the question describes "no additional cost", diminishing returns alone would not be a reason not to incrase the number of participants.)
 
 **2.9** *(6 points)*:
 
