@@ -47,7 +47,7 @@ Researchers are developing security software to help victims of abusive relation
 
 > The laboratory study provides researchers the opportunity to interact with participants to learn information that can't be observed remotely. *(4 points, other valid answers may substitute for this one)*
 
->> Five students identified that a field study of an untestsed technology could put high-risk participants in harms way.  Had we provided the [instructions we are drafting for future exams](./future.md) we would require this answer.  Since we did not, we are going to have to have to work on a relaxed criterial for answers.
+>> Five students identified that a field study of an untested technology could put high-risk participants in harms way.  Had we provided the [instructions we are drafting for future exams](./future.md) we would require this answer.  Since we did not, we are going to have to have to work on a relaxed criteria for answers.
 
 **1.5** *(8 points)*
 
@@ -57,7 +57,7 @@ Researchers in a between-subjects experiment find that 17 of 30 participants hee
 
 >2. Even if we knew for certain there was no difference between red and green, we cannot conclude there is no other color that would have made a difference. (A matter of external validity.) *(4 points)*
 
->> Only 3 partipants pointed out that the two groups were different, and that one cannot conclude the null hypothesis (no difference) is true simply because there wasn't enough evidence to disprove the null hypothesis.  We expected that would be clear given that performance between the two groups differed by so much (>10%).  If we haven't made a glaring error in how we asked the question, we need to make sure a background on what hypothesis tests can and can't do is either part of a recorded lecture, assignment, or discussed in sync section.
+>> Only 3 participants pointed out that the two groups were different, and that one cannot conclude the null hypothesis (no difference) is true simply because there wasn't enough evidence to disprove the null hypothesis.  We expected that would be clear given that performance between the two groups differed by so much (>10%).  If we haven't made a glaring error in how we asked the question, we need to make sure a background on what hypothesis tests can and can't do is either part of a recorded lecture, assignment, or discussed in sync section.
 
 >> A number of students suggested that the researchers might be wrong because participants could be color blind.  Participants being color blind, and thus unable to tell the difference between warnings of two colors, would work in favor of the hypothesis that there is no difference between the groups.  In a population with some fraction of color blindness, there would still be a proportion of the population where color is noticed, and to prove that color has no effect you'd have to prove that it has no effect for those who might notice.  (Regardless, in a study where participants are randomly assigned to groups, color blind participants would be equaly likely to be assigned to either group.)
 
@@ -69,16 +69,17 @@ You design a controlled experiment to test five different potential improvements
 
 Identify the dependent variable(s), the independent variable(s), and the number of groups in a between-subjects design.
 
-> 2 dependent variables: the fraction reporting seeing the widget and fraction who get comprehension question right (4 points: 2 points each)
+> There are 2 dependent variables: the fraction reporting seeing the widget and the fraction who gets the comprehension question right (4 points: 2 points each).
 
-> (b) the independent variable is design used, or treatment group, (3 points)
+> The only independent variable is the design used, or equivalently the assigned treatment group (3 points). This variable can take six different values: one for each variation of the notification widget, plus the unmodified widget. Although you may exclude it, it's better if you don't.
 
-> (c) 6 groups: 5 treatments + 1 control  (4 points for 6, 2 points if missing the control)
+> There are 6 groups: 5 treatments plus a control  (4 points for 5 groups, plus 1 bonus point if the control is mentioned).
 
 >> In the first grading pass, only about half of students got credit for identifying dependent variables and fewer for independent.  We'd thought these terms were defined well enough in the materials and online.
+>>
+>> A few students mentioned as groups a variation of: those who didn't see the widget, those who saw and didn't understand the widget, and those who saw and understood the widget. This is just an enumeration of the possible results for each subject, and it is plain wrong. Please notice also that it doesn't make sense that someone doesn't see the widget but understands it.
 
->> To take off points for not having the control, we hsould have asked about "which work, and which work best".  We should allow 5 or 6 for treatment groups, possibly with a bonus 1-2 points for those who brought up a control group.
-
+>> Although having 5 treatment groups works, it's better to have an additional control group. For example, if you did a regression analysis, you may pick any of the 5 groups as a baseline; then you would be comparing all other groups against this arbitrarily picked baseline. Instead, if you had a control group, you would be using this as a baseline (which is more appropriate). We assigned 4 points for mentioning 5 groups, plus 1 bonus point for correctly identifying an additional control group.
 
 -----------------------------
 
@@ -136,7 +137,7 @@ During the six-month trial, Dr. Driver's security team detects 23 employees in t
 
 > Wimberly and Liebrock's Using Fingerprint Authentication to Reduce System Security.  Employees who believed anti-malware was protecting them may have behaved more recklessly: e.g., installing software they might have avoided if they did not have faith in the additional layer of defense protecting them. *(4 points for paper, 4 points for explanation)*
 
->> Stuart discussed the exact scenario of anti-virus in class, but only 3/14 identified this paper.  Six, however, provided some for of explanation based on a paper discussed in class and so we'll have to make judgement calls.
+>> Stuart discussed the exact scenario of anti-virus in class, but only 3/14 identified this paper. If some other paper was mentioned, 4 points were given in total if and only if a similar argument to the one above was given (i.e., that when primed about it, people get a false sense of security and end up behaving less securely than in the opposite case).
 
 **2.7** *(6 points)*
 
@@ -144,7 +145,7 @@ In the paper “Operating system framed in case of mistaken identity”, by Brav
 
 > Participants didn't enter the password because they didn't want to install software, not because they didn't believe the password-dialog was created by the operating system.
 
->> Roughly half got this right.
+>> We assigned full score for other valid answers, such as mentioning the case of the spoofed Mac dialogs.
 
 **2.8** *(6 points)*:
 
