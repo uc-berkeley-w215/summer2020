@@ -47,7 +47,7 @@ Researchers are developing security software to help victims of abusive relation
 
 > The laboratory study provides researchers the opportunity to interact with participants to learn information that can't be observed remotely. *(4 points, other valid answers may substitute for this one)*
 
->> Five students identified that a field study of an untested technology could put high-risk participants in harms way.  Had we provided the [instructions we are drafting for future exams](./future.md) we would require this answer.  Since we did not, we are going to have to have to work on a relaxed criteria for answers.
+>> Five students identified that a field study of an untested technology could put high-risk participants in harms way.  Had we provided the [instructions we are drafting for future exams](./future.md) we would require this answer.  Since we did not, we are going to have to work on a relaxed criteria for answers.
 
 **1.5** *(8 points)*
 
