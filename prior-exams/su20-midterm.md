@@ -51,14 +51,16 @@ Researchers are developing security software to help victims of abusive relation
 >>
 >> We may give credit if any of the following assertions were made:
 
->> * "Researchers may reduce the possibility of harm to victims if in the lab." (4 points + 1 bonus point)
->> * "In the lab is easier to allow the victims to participate without letting the abuser know about it." (4 points + 1 bonus point)
->> *  "A field study may increase the risk of harm to participants." (4 points + 1 bonus point)
->> * "In the lab, researchers can better protect subjects' privacy." (4 points)
->> * "People might not feel safe enough to reveal anything in a field study." (4 points)
->> * "The lab provides a controlled environment, where such and such factors can be controlled better than in a field study." (2 points)
->> * "A lab study is easier to replicate" (2 points)
-
+>> Four points for each valid reasons, with a bonus (possible 9th) point if one of the two reasons given mentioned
+>> reducing risk of harm to participants, such as:
+>> * "Researchers may reduce the possibility of harm to victims if in the lab."
+>> * "In the lab is easier to allow the victims to participate without letting the abuser know about it."
+>> * "A field study may increase the risk of harm to participants."
+>>
+>> We gave two points for responses which gave reasons why a lab study *might* be superior to a field study, but where
+>> the scenario described does not clearly imply this to be true.  For example, some responses indicated that lab studies
+>> can be easier to replicate than field studies, but if all researchers have to do is install software on participants'
+>> phones and collect telemetry, it might be easier and more reliable to replicate the field study.
 
 
 **1.5** *(8 points)*
