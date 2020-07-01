@@ -48,19 +48,14 @@ Researchers are developing security software to help victims of abusive relation
 > The laboratory study provides researchers the opportunity to interact with participants to learn information that can't be observed remotely. *(4 points, other valid answers may substitute for this one)*
 
 >> Five students identified that a field study of an untested technology could put high-risk participants in harms way.  Had we provided the [instructions we are drafting for future exams](./future.md) we would require this answer.  Since we did not, we are going to have to work on a relaxed criteria for answers.
->>
->> We may give credit if any of the following assertions were made:
 
->> Four points for each valid reasons, with a bonus (possible 9th) point if one of the two reasons given mentioned
->> reducing risk of harm to participants, such as:
->> * "Researchers may reduce the possibility of harm to victims if in the lab."
->> * "In the lab is easier to allow the victims to participate without letting the abuser know about it."
->> * "A field study may increase the risk of harm to participants."
+>> In trying to understand student responses to this question, we reviewed the material available on
+>> "Field Studies" in the textbook.  We realized that the index does not contain "Field" or "Laboratory" study.
+>> Insane!  Further, there's not much in the content either.
 >>
->> We gave two points for responses which gave reasons why a lab study *might* be superior to a field study, but where
->> the scenario described does not clearly imply this to be true.  For example, some responses indicated that lab studies
->> can be easier to replicate than field studies, but if all researchers have to do is install software on participants'
->> phones and collect telemetry, it might be easier and more reliable to replicate the field study.
+>> Given that the textbook falls so far short here, we assigned 8 points to all answers that gave two reasons.
+>> We gave two bonus points to students who mentioned choosing a laboratory study will reduce the risk of harm to'
+>> participants.
 
 
 **1.5** *(8 points)*
