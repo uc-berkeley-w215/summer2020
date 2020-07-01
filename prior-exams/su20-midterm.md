@@ -48,6 +48,18 @@ Researchers are developing security software to help victims of abusive relation
 > The laboratory study provides researchers the opportunity to interact with participants to learn information that can't be observed remotely. *(4 points, other valid answers may substitute for this one)*
 
 >> Five students identified that a field study of an untested technology could put high-risk participants in harms way.  Had we provided the [instructions we are drafting for future exams](./future.md) we would require this answer.  Since we did not, we are going to have to work on a relaxed criteria for answers.
+>>
+>> We may give credit if any of the following assertions were made:
+
+>> * "Researchers may reduce the possibility of harm to victims if in the lab." (4 points + 1 bonus point)
+>> * "In the lab is easier to allow the victims to participate without letting the abuser know about it." (4 points + 1 bonus point)
+>> *  "A field study may increase the risk of harm to participants." (4 points + 1 bonus point)
+>> * "In the lab, researchers can better protect subjects' privacy." (4 points)
+>> * "People might not feel safe enough to reveal anything in a field study." (4 points)
+>> * "The lab provides a controlled environment, where such and such factors can be controlled better than in a field study." (2 points)
+>> * "A lab study is easier to replicate" (2 points)
+
+
 
 **1.5** *(8 points)*
 
