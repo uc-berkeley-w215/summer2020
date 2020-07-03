@@ -8,6 +8,10 @@ Office hours: Mondays @ 4:00pm Pacific
 
 ### Slack channel
 
+**ucbischool**, channel #w215-summer-2020.
+
+Via web: https://ucbischool.slack.com
+
 ### Instructors
 
 > Cristian Bravo-Lillo, cbravolillo \<a\> berkeley.edu
