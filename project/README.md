@@ -1,5 +1,7 @@
 # W215 Course Project Guidelines
 
+> [List of projects for summer 2020 term](./list-of-projects.md)
+
 You will design a research protocol to evaluate human behaviors or attitudes that impact security or privacy in computing systems, writing up the protocol as if it were an (incomplete) research paper and presentation. (Incomplete because you will not have time to run the study or get results.)
 
 Pilot any components that can be piloted in the time available, and/or use peers from other project groups to identify ways to improve your protocol. Project groups will be either 2-3 people.
