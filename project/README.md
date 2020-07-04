@@ -94,3 +94,5 @@ Your group will submit a final paper describing your research plans and the resu
 - An overview of the research method, the prepared study materials, and any other information relevant to running the study or the design of the material
 - A recruiting plan, including target demographics for participants
 - A description of the pilot sessions (at least 2 people) and the resulting changes that were made to the research materials
+
+Also, you may include how much you would pay to each subject if you ran the experiment.  That depends on how long it takes a subject to go through your full experiment.  An ethical payment would be around US$12 per hour of work (which is the minimum wage in California).  If for example an interview takes (in average) 15 minutes, you should pay about US$3. One question that usually emerges about this is whether you can pay more (if you have the money, of course). The answer is yes; but you should beware of paying too much because that could be coercive.
