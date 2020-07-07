@@ -1,5 +1,7 @@
 # How to lead discussion of a research paper
 
+> [See here the list of already led discussions for the Summer term 2020](./led-papers.md)
+
 When it’s your turn to lead the 10-15 minute discussion of the paper, please try to limit your introduction to five minutes and save the remaining time to get others to share their thoughts.
 
 1.  > Who are the authors and why did they decide to research the topic?
