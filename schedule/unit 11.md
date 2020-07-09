@@ -1,15 +1,18 @@
 ## Unit 11: Warnings – *July 16*
 
+### Presented Readings (students not presenting should read at least 1 or skim 3)
+
+- > [<span class="underline">A Week to Remember: The Impact of Browser
+    > Warning Storage
+    > Policies</span>](https://www.usenix.org/system/files/conference/soups2016/soups2016-paper-weinberger.pdf)*,
+    > by Weinberger and Felt*
+
+
 ### Possible readings (actual readings TBD 8 days before)
 
   - > [<span class="underline">You’ve Been Warned: An Empirical Study of
     > the Effectiveness of Web Browser Phishing
     > Warnings</span>](http://www.guanotronic.com/~serge/papers/warned.pdf)
-
-  - > [<span class="underline">A Week to Remember: The Impact of Browser
-    > Warning Storage
-    > Policies</span>](https://www.usenix.org/system/files/conference/soups2016/soups2016-paper-weinberger.pdf)*,
-    > by Weinberger and Felt*
 
   - > [<span class="underline">Put your warning where your link is:
     > Improving and evaluating email phishing

@@ -26,16 +26,19 @@
   - > Mazurek, M. L., Arsenault, J. P., Bresee, J., Gupta, N., Ion, I., Johns, C., . . . Reiter, M. K. (2010). *Access control for home data sharing: Attitudes, needs and practices.* Proceedings of the SIGCHI Conference on Human Factors in Computing Systems, ACM. https://www.archive.ece.cmu.edu/~lbauer/papers/2010/chi2010-home-access-control.pdf
 
 
-
-
 ### Assignments due
 
   - > Second discussion-lead for those who haven’t done two already (previous term did: Assignment 8: Research paper summary)
 
 
-
 ### Synchronous discussion agenda
 
-  - > Discuss the assigned reading (\~60 minutes)
+  - > Paper presentations (10 minutes max, 12 minute slots, 60 minutes total)
+  - > Proposal for future class reading presentations (and future terms)
+    >
+    > Addressing request for  instructors to provide more background on papers, authors, and the impact those papers have had.
+    > - 5 minute presentations
+    > - paper leads send presentation and proposed discussion questions in 24 hours before class
+    > - instructors either select discussion questions for students to ask, or ask their own discussino questions (or both)
   - > Project teams give project update (5m per group)
   - > Remainder of time for project team breakouts.
