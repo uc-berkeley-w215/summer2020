@@ -6,7 +6,8 @@
     > Warning Storage
     > Policies</span>](https://www.usenix.org/system/files/conference/soups2016/soups2016-paper-weinberger.pdf)*,
     > by Weinberger and Felt*
-
+    
+    > Discussion lead: Kumud Kalia
 
 ### Possible readings (actual readings TBD 8 days before)
 
