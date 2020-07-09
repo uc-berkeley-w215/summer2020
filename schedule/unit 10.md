@@ -32,14 +32,14 @@
 
 ### Synchronous discussion agenda
 
-  - > Quick updated on grading (still waiting for more data from MICS)
+  - > Quick update on grading (still waiting for more data from MICS)
   - > Paper presentations (10 minutes max, 12 minute slots, 60 minutes total)
   - > Proposal for future class reading presentations (and future terms)
     >
     > Addressing request for  instructors to provide more background on papers, authors, and the impact those papers have had.
     > - 5 minute presentations
     > - paper leads send presentation and proposed discussion questions in 24 hours before class
-    > - instructors either select discussion questions for students to ask, or ask their own discussino questions (or both)
+    > - instructors either select discussion questions for students to ask, or ask their own discussion questions (or both)
   - > Discussion of progress of 4-person project teams
 
   - > Project teams give project update (5m per group)
