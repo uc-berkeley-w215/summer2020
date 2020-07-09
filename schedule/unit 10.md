@@ -13,7 +13,9 @@
   - > Schaub F., Balebako R., Durity A., Cranor L. F. (2015). *A Design Space for Effective Privacy Notices*. Proceedings of the 11th Symposium on Usable Privacy and Security, SOUPS.  https://www.usenix.org/system/files/conference/soups2015/soups15-paper-schaub.pdf.
     > *Discussion lead: Ramana Kapavarapu*
 
-
+- > Johnson, M. L., Bellovin, S. M., Reeder, R. W., & Schechter, S. E. (2009). Laissez-faire file sharing: Access control designed for individuals at the endpoints. *New Security Paradigms Workshop*, NSPW. https://academiccommons.columbia.edu/doi/10.7916/D8D79J6W/download
+    > *Discussion Lead: Bryan Everly*
+    
 
 ### Untaken readings
 
@@ -23,7 +25,6 @@
 
   - > Mazurek, M. L., Arsenault, J. P., Bresee, J., Gupta, N., Ion, I., Johns, C., . . . Reiter, M. K. (2010). *Access control for home data sharing: Attitudes, needs and practices.* Proceedings of the SIGCHI Conference on Human Factors in Computing Systems, ACM. https://www.archive.ece.cmu.edu/~lbauer/papers/2010/chi2010-home-access-control.pdf
 
-  - > Johnson, M. L., Bellovin, S. M., Reeder, R. W., & Schechter, S. E. (2009). Laissez-faire file sharing: Access control designed for individuals at the endpoints. *New Security Paradigms Workshop*, NSPW. https://academiccommons.columbia.edu/doi/10.7916/D8D79J6W/download
 
 
 
