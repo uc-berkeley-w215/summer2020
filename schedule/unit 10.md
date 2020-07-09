@@ -30,7 +30,6 @@
 
   - > Second discussion-lead for those who haven’t done two already (previous term did: Assignment 8: Research paper summary)
 
-
 ### Synchronous discussion agenda
 
   - > Quick updated on grading (still waiting for more data from MICS)
@@ -41,5 +40,7 @@
     > - 5 minute presentations
     > - paper leads send presentation and proposed discussion questions in 24 hours before class
     > - instructors either select discussion questions for students to ask, or ask their own discussino questions (or both)
+  - > Discussion of progress of 4-person project teams
+
   - > Project teams give project update (5m per group)
   - > Remainder of time for project team breakouts.

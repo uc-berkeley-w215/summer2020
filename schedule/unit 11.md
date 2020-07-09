@@ -27,6 +27,6 @@
 
 ### Synchronous discussion agenda
 
-  - > Discuss assigned readings (\~45 minutes)
+  - > Discuss assigned readings (\~30 minutes)
 
-  - > Discuss projects progress (\~45 minutes)
+  - > 10-minute presentations from each project group
