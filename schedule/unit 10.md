@@ -33,6 +33,7 @@
 
 ### Synchronous discussion agenda
 
+  - > Quick updated on grading (still waiting for more data from MICS)
   - > Paper presentations (10 minutes max, 12 minute slots, 60 minutes total)
   - > Proposal for future class reading presentations (and future terms)
     >
