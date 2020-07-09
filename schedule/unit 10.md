@@ -1,6 +1,6 @@
 ## Unit 10: Access Control – July 9
 
-### Readings
+### Presented Readings (students not presenting should read at least 1 or skim 3)
   - > He, W., Golla, M., Padhi, R., Ofek, J., Durmuth, M., Fernandes, E., & Ur, B. (2018). *Rethinking access control and authentication for the home internet of things (IoT*). Proceedings of the 27th USENIX Security Symposium (USENIX Security 18). https://www.blaseur.com/papers/usenixsec18.pdf.
     > *Discussion lead: Vimochan Cheethirala*
 
