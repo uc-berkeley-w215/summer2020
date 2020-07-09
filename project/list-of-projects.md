@@ -8,7 +8,7 @@
 **Research goal**: to find out whether people attending protests with their iPhones take any additional security methods (e.g., changing their authentication method) before attending.
 
 **Documents (in progress)**:
-- **Main project document**: https://docs.google.com/document/d/1tBWRMS0xz1Q16NQmkDW-P79LRBPh6c5pHB4Hr9ZfH2g/
+- [**Main project document**](https://docs.google.com/document/d/1tBWRMS0xz1Q16NQmkDW-P79LRBPh6c5pHB4Hr9ZfH2g/)
 - **Informed consent**: No file.
 - **Experiment ad**: No file.
 - **Other material**: None yet.
@@ -37,12 +37,12 @@
 **Research goal**: To understand whether people using password managers actually change their passwords to unique, randomly-chosen ones, or whether they simply use these apps to store their passwords, without any changes.
 
 **Documents (in progress)**:
-- **Main project document**: https://docs.google.com/document/d/1PcKQS6WLADMc7Z-20VEEeBV1BkFKwFP-XWiuB2WX8cE/
+- [**Main project document**](https://docs.google.com/document/d/1PcKQS6WLADMc7Z-20VEEeBV1BkFKwFP-XWiuB2WX8cE/)
 - **Informed consent**: No file.
 - **Experiment ad**: No file.
 - **Other material**:
-	* Screenshots of password managers: https://docs.google.com/document/d/18OQupG3eBOmBYJSOpbtzbVdTG7VgtXB5alBTo6WV8kw/
-	* List of password managers: https://docs.google.com/spreadsheets/d/15pRoX49MkOVoM3aXq1mbRLdT7YeFzjmsfCVUXfnErOc/
+	* [Screenshots of password managers](https://docs.google.com/document/d/18OQupG3eBOmBYJSOpbtzbVdTG7VgtXB5alBTo6WV8kw/)
+	* [List of password managers](https://docs.google.com/spreadsheets/d/15pRoX49MkOVoM3aXq1mbRLdT7YeFzjmsfCVUXfnErOc/)
 
 
 
