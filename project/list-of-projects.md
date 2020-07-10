@@ -1,16 +1,16 @@
 
 # List of course projects - summer 2020
 
-## Project: Cell Phone Privacy Protection When Attending Protests
+## Project: Cell Phone Data and Privacy Protection Best Practices When Attending Protests
 
 **Group members**: Abdul, Kai and Ramadhan
 
-**Research goal**: to find out whether people attending protests with their iPhones take any additional security methods (e.g., changing their authentication method) before attending.
+**Research goal**: to find out whether people attending protests with their cell phones take any additional security precautions (e.g., changing their authentication method) before attending.
 
 **Documents (in progress)**:
-- [**Main project document**](https://docs.google.com/document/d/1tBWRMS0xz1Q16NQmkDW-P79LRBPh6c5pHB4Hr9ZfH2g/)
-- **Informed consent**: No file.
-- **Experiment ad**: No file.
+- [**Main project document**](https://docs.google.com/document/d/1tBWRMS0xz1Q16NQmkDW-P79LRBPh6c5pHB4Hr9ZfH2g/edit?usp=sharing)
+- [**Informed consent**](https://docs.google.com/document/d/1iRPOI0lMoJI6-yP8QTcyo91U_cGYBppfJ2nVlHtI9j4/edit?usp=sharing)
+- [**Experiment ad**](https://docs.google.com/document/d/1yf06I6upAWCMuijCzX4wpB4cXdENFFophkp2bqlP4lU/edit?usp=sharing)
 - **Other material**: None yet.
 
 
