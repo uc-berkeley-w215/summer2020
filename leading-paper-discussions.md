@@ -4,28 +4,38 @@
 
 When it’s your turn to lead the 10-15 minute discussion of the paper, please try to limit your introduction to five minutes and save the remaining time to get others to share their thoughts.
 
+We will give **extra credit** if, before the class in which you lead a discussion, you submit a zoom recording of your practice talk.  We will not grade the practice talk based on quality, but will _only_ verify that it is a genuine attempt to practice for the purpose of meeting the time requirement.  You may _optionally_ ask us to provide feedback if it is submitted early enough for us to provide it.
+
+#### For all papers, you should cover:
+
 1.  > Who are the authors and why did they decide to research the topic?
 
-2.  > What do the authors claim the results to be?
+2.  > What type of paper is it?
+      - Qualitative, Quantitative, Survey/SoK, Opinion?
+      - Interview, Survey, Field, Lab?
 
-3.  > What methodology was used in any experiments?
+3.  > What do the authors claim the results to be and do you believe them?
 
-4.  > Was there any part of the methodology, claims, or other aspect of the paper which you couldn’t understand? (Did the authors leave important details out?)
+#### You may also want to discuss:
 
-5.  > Is there any disconnect between what the authors claim and the methodology or results?
+-  > Was there important information missing or that was hard to understand?
 
-6.  > What were the least believable parts of the paper or sources of skepticism?
+-  > What were the least believable parts of the paper or sources of skepticism?
 
-7.  > What were the most clever parts of the paper, or what did the authors do that you would have never thought of?
+-  > What were the most clever parts of the paper, or what did the authors do that you would have never thought of?
 
-8.  > What do you wish the authors had done differently?
+-  > What do you wish the authors had done differently?
 
-9.  > What results did you find most surprising?
+-  > What results did you find most surprising?
 
-Some suggestions when reading, and also when leading a discussion:
+-  > Did the authors use passive or active voice, and did that choice impact your perception of the paper.
 
-1.  > Note whether the authors use passive or active voice, and think about the implications of these choices.
+#### Other guidelines
 
-2.  > Try to avoid reading aloud large parts of the paper when you’re doing the discussion. Try instead to describe in your own words the authors’ findings or discussions.
+- A detailed discussion of all methodology and results would take far more time than you have.  You will need to work hard to identify any unique methdological choices or important results and stick only to those.
 
-3.  > Don’t be afraid to state openly when you don’t understand part of a paper (or even the whole paper\!) It’s very helpful for both the instructors and the rest of the students to know when something is not clear.
+- Avoid reading aloud large parts of the paper when you’re doing the discussion. Try instead to describe in your own words the authors’ findings or discussions.
+
+- Don’t be afraid to state openly when you don’t understand part of a paper (or even the whole paper\!) It’s very helpful for both the instructors and the rest of the students to know when something is not clear.
+
+- You are unlikely to have time to discuss the related work section, so unless a piece of related work is something we've read in class (e.g., you can save time on discussion methodology by saying a paper uses similar methdology to X et. al) or there's a connection to a paper you're deeply passionate about, you don't need to discuss the section.
