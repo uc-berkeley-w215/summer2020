@@ -11,7 +11,7 @@
 
   - > [<span class="underline">What Do Online Behavioral Advertising
     > Privacy Disclosures Communicate to
-    > Users?</span>](http://www.blaseur.com/papers/wpes2012-obaicons.pdf)
+    > Users?</span>](http://www.blaseur.com/papers/wpes2012-obaicons.pdf) Discussion lead: David Ng
 
   - > [<span class="underline">A Comparative Study of Online Privacy
     > Policies and
