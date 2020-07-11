@@ -1,3 +1,5 @@
+# Current semester (summer 2020) readings
+
 **Josh Arteaga**:
 - "Privacy Attitudes and Privacy Behavior: Losses, Gains, and Hyperbolic Discounting", by Acquisti and Grossklags. (Unit 7)
 - "Real life challenges in access-control management.", by Bauer et al. (Unit 10)
