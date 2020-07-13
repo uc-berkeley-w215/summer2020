@@ -4,7 +4,7 @@
 
 THURSDAYS@ 4:00pm Pacific
 
-Office hours: Mondays @ 4:00pm Pacific
+Office hours: [Mondays @ 4:00pm Pacific](https://zoom.us/s/94498838438)
 
 ### Slack channel
 
