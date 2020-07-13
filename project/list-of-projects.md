@@ -23,7 +23,7 @@
 
 **Documents (in progress)**:
 
-- **Main project document**: No file.
+- [**Main project document**](https://docs.google.com/document/d/112IFjrraeM0-MkxICwxx7fViW4EZK__x5SxsFvPltHg/edit?skip_itp2_check=true)
 - **Informed consent**: No file.
 - **Experiment ad**: No file.
 - **Other material**: None yet.
