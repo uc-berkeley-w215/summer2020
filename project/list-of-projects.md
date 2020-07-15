@@ -53,7 +53,7 @@
 **Research goal**: To find out whether there is consistency between covid19 location tracing apps (as expressed by their creators in the app privacy policies) and the users' privacy understanding and expectations of these applications.
 
 **Documents (in progress)**:
-- [**Main project document**] (https://docs.google.com/document/d/1zTJ8MkEs_obfv_zLICVFbX2uabks3zj6ETLICE3ApJA/edit?usp=sharing)
+- [**Main project document**](https://docs.google.com/document/d/1zTJ8MkEs_obfv_zLICVFbX2uabks3zj6ETLICE3ApJA/edit?usp=sharing)
 - **Informed consent**: No file.
 - **Experiment ad**: No file.
 - **Other material**: None yet.
