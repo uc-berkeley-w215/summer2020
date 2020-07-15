@@ -2,9 +2,9 @@
 
 > [See here the list of already led discussions for the Summer term 2020](./led-papers.md)
 
-When it’s your turn to lead the 10-15 minute discussion of the paper, please try to limit your introduction to five minutes and save the remaining time to get others to share their thoughts.
+When it’s your turn to lead the 10-15 minute discussion of the paper, please try to limit your presentation to five minutes and save the remaining time to get others to share their thoughts.
 
-We will give **extra credit** if, before the class in which you lead a discussion, you submit a zoom recording of your practice talk.  We will not grade the practice talk based on quality, but will _only_ verify that it is a genuine attempt to practice for the purpose of meeting the time requirement.  You may _optionally_ ask us to provide feedback if it is submitted early enough for us to provide it.
+We will give **extra credit** if, before the class in which you lead a discussion, you submit a zoom recording of your practice talk.  We will not grade the practice talk based on quality, but will _only_ verify that it is a genuine attempt to practice for the purpose of ensuring your presentation does not go over five minutes.  You may _optionally_ ask us to provide feedback if it is submitted early enough for us to provide it.
 
 #### For all papers, you should cover:
 
