@@ -21,11 +21,11 @@ The earlier you volunteer, the more likely it is that the request will come befo
 
 ## Be constructive
 
-It's easy to find language that hard to understand or find other problems in others' work.  We've all received "help" that makes our goals seem further away when we were hoping it would move us closer.
+It's easy to find language that is hard to understand or find other problems in others' work.  We've all received "help" that makes our goals seem further away when we were hoping it would move us closer.
 
 To make your feedback more constructive, each time you identify a problem you should ask yourself if you have any ideas for solutions, and offer them.
 
-## Be avaialble for follow-ups
+## Be available for follow-ups
 
 Just as your first-draft materials may need iteration to be understood, the folks your helping may have questions for you.  They may want to better understand a concern, or to share improvements to see if you agree that a solution addresses a problem you have identified.
 
