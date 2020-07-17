@@ -14,6 +14,12 @@ Be proactive about talking with the instructor before the project proposal is du
 
 You may use the class’s running list of [<span class="underline">project ideas</span>](./ideas.md).
 
+You will need to familiarize yourself with the [University guidelines](https://cphs.berkeley.edu/review.html) on whether you project will require ethical review. Course projects...
+
+> "generally do not constitute research because their purpose is to provide training in research as part of the overall educational mission of a program and are not designed to contribute to new knowledge. However, if ... the instructor or student wishes to conduct further investigation and analyses in order to contribute to scholarly knowledge ... it meets the above definition of research and requires CPHS/OPHS review."
+
+We interpret that to mean that if your project is going well and you expect to have a result worth publishing, you will want to add an ethics reivew.
+
 **You will want to get started early**, seek feedback early, pilot early, and leave time for many revisions of your study materials. In the words of a former student in this course after submitting a successful
 project:
 

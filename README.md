@@ -1,33 +1,32 @@
 # Usable Privacy and Security (MICS W215) Syllabus
 
-### Sync Session Time
+### Sync Section
 
-THURSDAYS@ 4:00pm Pacific
+> THURSDAYS@ 4:00pm Pacific
 
-Office hours: [Mondays @ 4:00pm Pacific](https://zoom.us/s/94498838438)
+### Office hours
+
+> Mondays @ 4:00pm Pacific via [zoom](https://zoom.us/s/94498838438)
 
 ### Slack channel
 
-**ucbischool**, channel #w215-summer-2020.
-
-Via web: https://ucbischool.slack.com
+> [**ucbischool**](https://ucbischool.slack.com), channel #w215-summer-2020.
 
 ### Instructors
 
-> Cristian Bravo-Lillo, cbravolillo \<a\> berkeley.edu
->
-> Stuart Schechter, imposter \<at\> berkeley.edu
+ -  Cristian Bravo-Lillo, cbravolillo \<a\> berkeley.edu
+
+ -  Stuart Schechter, imposter \<at\> berkeley.edu
 
 ### Course Lead
 
-> Stuart Schechter
+- Stuart Schechter
 
 ### Original Course Creators & Video Lecturers
 
-> [Maritza Johnson](http://maritzajohnson.com/), UC Berkeley School of Information
->
-> [Serge Egelman](https://www.guanotronic.com/~serge/), UC Berkeley and International Computer Science
-> Institute
+- [Maritza Johnson](http://maritzajohnson.com/), UC Berkeley School of Information
+
+- [Serge Egelman](https://www.guanotronic.com/~serge/), UC Berkeley and International Computer Science Institute
 
 ## Course Description
 
@@ -41,25 +40,28 @@ Completion of at least one of the three core courses for the MICS degree program
 
 ## Course Objectives
 
-1.  > Students will learn to identify human factors issues that impact the security and privacy of systems.
+1. Students will learn to identify human factors issues that impact the security and privacy of systems.
 
-2.  > Students will develop skills reading research papers, evaluating their findings, and identifying their limitations.
+2. Students will develop skills reading research papers, evaluating their findings, and identifying their limitations.
 
-3.  > Students will learn multiple experimental approaches to evaluating human factors issues in security and privacy.
+3. Students will learn multiple experimental approaches to evaluating human factors issues in security and privacy.
 
-4.  > Students will learn about current research findings and methods in usable security and privacy.
+4. Students will learn about current research findings and methods in usable security and privacy.
 
 ## Course Evaluation
 
-  - > Async responses and reflections (10%)
-  - > Live session participation (20%)
+  - Async responses and reflections (10%)
+  - Live session participation (20%)
     
-    - > You will lead the discussion of 1-3 papers (depending on course enrollment)
-  - > Assignments (10%)
-    - > Traditional homeworks
-    - > Acting as reviewer or pilot participant for other teams’ course projects
-  - > Midterm (20%)
-  - > [<span class="underline">Final project</span>](/project/) (40%)
+    - You will lead the discussion of 1-3 papers (depending on course enrollment)
+  - Assignments (10%)
+    - Traditional homeworks
+    - Acting as reviewer or pilot participant for other teams’ course projects
+  - Midterm (20%)
+  - [<span class="underline">Final project</span>](/project/) (40%)
+
+Extra credit:
+  -- Provide [additional help to other teams](/project/helping-others.md) beyond the minimum required under the Assignments category.
 
 ## Collaboration Policy
 
