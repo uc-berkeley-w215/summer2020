@@ -10,7 +10,7 @@ It is far better to provide a small amount of time when another team needs help 
 
 Rather, volunteer early, suggest ways you might be able to help, and do your best to make yourself available when requests come in. Expect that requests will come at times that are not the most convenient for you.
 
-The earlier you volunteer, the more likely it is that the request will come before you (and everyone else) is overwhelemd with your own project.  When you are able to handle a request, reply as soon as possible to set expections on when you can help.  Even if you expect to respond in just a few minutes, letting the requestor know ahead of time might help them to decide what to do next while they wait.
+The earlier you volunteer, the more likely it is that the request will come before you (and everyone else) is overwhelmed with your own project.  When you are able to handle a request, reply as soon as possible to set expectations on when you can help.  Even if you expect to respond in just a few minutes, letting the requester know ahead of time might help them to decide what to do next while they wait.
 
 ##### Good
   > I have some free time at 10am and need to complete my help requirement.  Is there anything I can do?
@@ -27,5 +27,5 @@ To make your feedback more constructive, each time you identify a problem you sh
 
 ## Be available for follow-ups
 
-Just as your first-draft materials may need iteration to be understood, the folks your helping may have questions for you.  They may want to better understand a concern, or to share improvements to see if you agree that a solution addresses a problem you have identified.
+Just as your first-draft materials may need iteration to be understood, the folks you're helping may have questions for you.  They may want to better understand a concern, or to share improvements to see if you agree that a solution addresses a problem you have identified.
 
