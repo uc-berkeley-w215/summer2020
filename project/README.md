@@ -1,6 +1,10 @@
 # W215 Course Project Guidelines
 
-> [List of projects for summer 2020 term](./list-of-projects.md)
+> **Quick links**:
+>
+> - [List of project ideas](./ideas.md)
+> - [List of projects for summer 2020 term](./list-of-projects.md)
+> - [Help on setting up a Qualtrics survey](https://docs.google.com/document/d/1dCWqeEVaHSNwUDYGvA1_XT8BK_1JFZQUe2MjjIDPLbo/edit) (thanks to Jacky Ho)
 
 You will design a research protocol to evaluate human behaviors or attitudes that impact security or privacy in computing systems, writing up the protocol as if it were an (incomplete) research paper and presentation. (Incomplete because you will not have time to run the study or get results.)
 
@@ -36,7 +40,7 @@ To motivate your research, please explain the possible impact of your research o
 * Is there a technology that you or others might choose to adopt or avoid based on the results of a study?
 * Are you identifying pain points or challenges that will help you or your organization determine which problems still need to be addressed in a design?
 * Will you be identifying users concerns so that you can better quantify them with a follow-up study so that they can be address down the road?
-* Are there benefits to the study that cannot be expressed as decisions that might be changed or resources that might be alloated differently based on the possible outcomes?
+* Are there benefits to the study that cannot be expressed as decisions that might be changed or resources that might be allocated differently based on the possible outcomes?
 
 **Please submit at least two paragraphs before the sync session**, and be prepared to answer questions about what you wrote. Send a link to your proposal to the slack group.
 
