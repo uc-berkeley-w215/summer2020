@@ -1,5 +1,9 @@
 ## Unit 12: Mobile Permissions – *July 23*
 
+### Async material note:
+
+ - The video that is no longer available at the link in the course materials can be replaced by [this one](https://www.youtube.com/watch?v=vFJYV7CSkJ4).
+ 
 ### Readings
 
   - Balebako, R., Jung, J., Lu, W., Cranor, L., & Nguyen, C. (2013).
