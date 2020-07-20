@@ -21,6 +21,7 @@
     > and behavior.* Proceedings of the 8th Symposium on Usable Privacy
     > and Security. ACM.
     > [<span class="underline">http://cups.cs.cmu.edu/soups/2012/proceedings/a3\_Felt.pdf</span>](http://cups.cs.cmu.edu/soups/2012/proceedings/a3_Felt.pdf)
+    *Discussion lead: Neeraj Singh*
 
   - > Kelley, P. G., Cranor, L. F., & Sadeh, N. (2013). *Privacy as part
     > of the app decision*-*making process.* Proceedings of the SIGCHI
