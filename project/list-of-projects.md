@@ -54,6 +54,6 @@
 
 **Documents (in progress)**:
 - [**Main project document**](https://docs.google.com/document/d/1zTJ8MkEs_obfv_zLICVFbX2uabks3zj6ETLICE3ApJA/edit?usp=sharing)
-- **Informed consent**: No file.
+- [**Informed consent**](https://drive.google.com/file/d/1ytVCMgKAaDFCnl-98rMf9G9c8eFvQFsU/view?usp=sharing)
 - **Experiment ad**: No file.
 - **Other material**: None yet.
