@@ -5,7 +5,7 @@
 > - [List of project ideas](./ideas.md)
 > - [Tips on helping others with their projects](./helping-others.md)
 > - [List of projects for summer 2020 term](./list-of-projects.md)
-> - [Collaborating with Qualtrics](/tools/qualtrics)
+> - [Collaborating with Qualtrics](/project/tools/qualtrics)
 > - [Tips on setting up a Qualtrics survey](https://docs.google.com/document/d/1dCWqeEVaHSNwUDYGvA1_XT8BK_1JFZQUe2MjjIDPLbo/edit) (thanks to Jacky Ho)
 
 You will design a research protocol to evaluate human behaviors or attitudes that impact security or privacy in computing systems, writing up the protocol as if it were an (incomplete) research paper and presentation. (Incomplete because you will not have time to run the study or get results.)
@@ -35,7 +35,7 @@ In fact, most studies designed by researchers with decades of experience will go
  - [Amazon’s Mechanical Turk](https://www.mturk.com/)
      > Note that we've received reports that MTurk's data quality has gone significantly down due to infiltration by bots.
 
-For building surveys, make sure to read the instructions for using Berkeley's site license for [Qualtrics](/tools/qualtrics) to get all their advanced features.
+For building surveys, make sure to read the instructions for using Berkeley's site license for [Qualtrics](/project/tools/qualtrics) to get all their advanced features.
 
 ## Deliverables 
 
