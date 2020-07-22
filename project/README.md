@@ -28,7 +28,12 @@ project:
 
 In fact, most studies designed by researchers with decades of experience will go through more iterations than you have time for during this term, often with over a dozen iterations of test materials and two to four pilot studies. One of the things you will be learning this term is that the human-subjects studies you read are the results of lots of work you are unlikely to read about in the paper, and far more work than most people understand.
 
-**New this term**, we have a budget of $100/student for running studies, so you can pay participants via such services as [<span class="underline">Qualtrics</span>](https://berkeley.ca1.qualtrics.com/) or Amazon’s Mechanical Turk.
+**New this term**, we have a budget of $100/student for running studies, so you can pay participants via such services as
+ - [Prolific](https://www.prolific.co/) (recommended by Professor Egelman), 
+ -  [Qualtrics](https://berkeley.ca1.qualtrics.com/) (some teams have reported a $500 minimum for recruiting)
+ - [Amazon’s Mechanical Turk](https://www.mturk.com/).
+
+For building surveys, you can use Berkeley's site license for [Qualtrics](https://berkeley.ca1.qualtrics.com/) to get all their advanced features.
 
 ## Deliverables 
 

@@ -9,8 +9,12 @@
   - > Balebako, R., Jung, J., Lu, W., Cranor, L., & Nguyen, C. (2013). *Little brother’s watching you: Raising awareness of data leaks on smartphones.* Proceedings of the 9th Symposium on Usable Privacy and Security, SOUPS. [<span class="underline">http://cups.cs.cmu.edu/soups/2013/proceedings/a12\_Balebako.pdf</span>](http://cups.cs.cmu.edu/soups/2013/proceedings/a12_Balebako.pdf)
     > *Discussion lead: Abdulkadir Egal*
 
-  - > Felt, A. P., Ha, E., Egelman, S., Haney, A., Chin, E., & Wagner, D. (2012). *Android permissions: User attention, comprehension, and behavior.* Proceedings of the 8th Symposium on Usable Privacy and Security. ACM. [<span class="underline">http://cups.cs.cmu.edu/soups/2012/proceedings/a3\_Felt.pdf</span>](http://cups.cs.cmu.edu/soups/2012/proceedings/a3_Felt.pdf)
-    > *Discussion lead: Neeraj Singh*
+  - > Felt, A. P., Ha, E., Egelman, S., Haney, A., Chin, E., & Wagner,
+    > D. (2012). *Android permissions: User attention, comprehension,
+    > and behavior.* Proceedings of the 8th Symposium on Usable Privacy
+    > and Security. ACM.
+    > [<span class="underline">http://cups.cs.cmu.edu/soups/2012/proceedings/a3\_Felt.pdf</span>](http://cups.cs.cmu.edu/soups/2012/proceedings/a3_Felt.pdf)
+    *Discussion lead: Neeraj Singh*
 
 ### Non-taken readings
 
