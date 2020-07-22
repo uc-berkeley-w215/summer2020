@@ -5,6 +5,7 @@
 > - [List of project ideas](./ideas.md)
 > - [Tips on helping others with their projects](./helping-others.md)
 > - [List of projects for summer 2020 term](./list-of-projects.md)
+> - [Collaborating with Qualtrics](/tools/qualtrics)
 > - [Tips on setting up a Qualtrics survey](https://docs.google.com/document/d/1dCWqeEVaHSNwUDYGvA1_XT8BK_1JFZQUe2MjjIDPLbo/edit) (thanks to Jacky Ho)
 
 You will design a research protocol to evaluate human behaviors or attitudes that impact security or privacy in computing systems, writing up the protocol as if it were an (incomplete) research paper and presentation. (Incomplete because you will not have time to run the study or get results.)
@@ -29,11 +30,12 @@ project:
 In fact, most studies designed by researchers with decades of experience will go through more iterations than you have time for during this term, often with over a dozen iterations of test materials and two to four pilot studies. One of the things you will be learning this term is that the human-subjects studies you read are the results of lots of work you are unlikely to read about in the paper, and far more work than most people understand.
 
 **New this term**, we have a budget of $100/student for running studies, so you can pay participants via such services as
- - [Prolific](https://www.prolific.co/) (recommended by Professor Egelman), 
+ - [Prolific](https://www.prolific.co/) (strongly recommended by Professor Egelman), 
  -  [Qualtrics](https://berkeley.ca1.qualtrics.com/) (some teams have reported a $500 minimum for recruiting)
- - [Amazon’s Mechanical Turk](https://www.mturk.com/).
+ - [Amazon’s Mechanical Turk](https://www.mturk.com/)
+     > Note that we've received reports that MTurk's data quality has gone significantly down due to infiltration by bots.
 
-For building surveys, you can use Berkeley's site license for [Qualtrics](https://berkeley.ca1.qualtrics.com/) to get all their advanced features.
+For building surveys, make sure to read the instructions for using Berkeley's site license for [Qualtrics](/tools/qualtrics) to get all their advanced features.
 
 ## Deliverables 
 
