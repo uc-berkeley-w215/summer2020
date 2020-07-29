@@ -8,6 +8,9 @@
 - "Rethinking access control and authentication for the home internet of things (IoT)", by He et a. (Unit 10)
 - "Put your warning where your link is: Improving and evaluating email phishing warnings", by Petelka et al. (Unit 11)
 
+**Abdulkadir Egal**:
+- "Little brother’s watching you: Raising awareness of data leaks on smartphones", by Balebako et al. (Unit 12)
+
 **Bryan Everly**:
 - "A Taxonomy of Privacy", by Solove. (Unit 7)
 
@@ -30,6 +33,7 @@
 
 **David Ng**:
 - "The Effect of Online Privacy Information on Purchasing Behavior: An Experimental Study", by Tsai et al. (Unit 7)
+- "What Do Online Behavioral Advertising Privacy Disclosures Communicate to Users?", by León et al. (Unit 14)
 
 **Chukwunenye Nnebe**:
 - "It’s Not What You Know, but Who You Know: A Social Approach to Last-Resort Authentication", by Schechter et al. (Unit 9)
@@ -41,6 +45,7 @@
 **Neeraj Singh**:
 - "Experimenting at Scale With Google Chrome’s SSL Warning", by Felt et al. (Unit 5)
 - "No One Can Hack My Mind", by Ion, Reeder, and Consolvo. (Unit 6)
+- "Android permissions: User attention, comprehension, and behavior", by Felt et al. (Unit 12)
 
 **Kai Tang**:
 - "When Security Gets in the Way", by Don Norman. (Unit 5)

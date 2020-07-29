@@ -23,6 +23,8 @@
 
 ### Synchronous discussion agenda
 
-  - > Final project presentations (15 minutes, 5-10 for presentation)
+  - > Paper presentation and discussion (10 minutes)
 
-  - > Paper discussions (45 minutes)
+  - > Final project presentations (15 minutes per team: 10 for presentation and 5 for questions)
+
+  - > Projects and course wrap-up (15 minutes)
