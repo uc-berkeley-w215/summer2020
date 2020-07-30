@@ -43,18 +43,18 @@ For building surveys, make sure to read the instructions for using Berkeley's si
 
 In the breakout group projects that we started during class 3 and presented in class 4, I hope you all learned that:
 
-1.  > Understanding the specifics of a problem is an essential first step and worth your time. (Much confusion resulted when team members didn’t see the problem the same way.)
+1. Understanding the specifics of a problem is an essential first step and worth your time. (Much confusion resulted when team members didn’t see the problem the same way.)
 
-2.  > Different assumptions of costs and benefits can lead to very different research designs.
+2. Different assumptions of costs and benefits can lead to very different research designs.
 
 Therefore, when you are pitching projects ideas, put 80% of your effort into writing a crisp and clear definition of the problem you want to investigate or hypothesis you wish to test, and then 20% of effort into saying which research method (survey, lab study, field study, etc.) would best apply to the problem.
 
 To motivate your research, please explain the possible impact of your research on your organization or on the broader world. What decisions might be better informed by the results of your study? For example:
 
-* Is there a technology that you or others might choose to adopt or avoid based on the results of a study?
-* Are you identifying pain points or challenges that will help you or your organization determine which problems still need to be addressed in a design?
-* Will you be identifying users concerns so that you can better quantify them with a follow-up study so that they can be address down the road?
-* Are there benefits to the study that cannot be expressed as decisions that might be changed or resources that might be allocated differently based on the possible outcomes?
+  - Is there a technology that you or others might choose to adopt or avoid based on the results of a study?
+  - Are you identifying pain points or challenges that will help you or your organization determine which problems still need to be addressed in a design?
+  - Will you be identifying users concerns so that you can better quantify them with a follow-up study so that they can be address down the road?
+  - Are there benefits to the study that cannot be expressed as decisions that might be changed or resources that might be allocated differently based on the possible outcomes?
 
 **Please submit at least two paragraphs before the sync session**, and be prepared to answer questions about what you wrote. Send a link to your proposal to the slack group.
 
@@ -66,51 +66,50 @@ Submit a **one-page project proposal** (10% of course grade).
 
 Submit a **revised proposal**.
 
+1. Research materials needed to execute the study:
+	- study/analysis plan
+	- research protocols
+	- any material required during the research activities (surveys, recruiting ads, etc.)
+2. Designs, mockups, and prototypes at the appropriate level of fidelity.
+
+At this point you should have considered the ethical aspects of your study design.  
+Quoting *from UW’s IRB Application:*
+
+> * Describe the reasonably foreseeable risks of harm, discomforts, and hazards to the subjects and others of the research procedures. For each harm, discomfort, or hazard:
+> * Describe the magnitude, probability, duration, and/or reversibility of the harm, discomfort, or hazard, AND
+> * Describe how the risks will be reduced or managed
+> Consider possible physical, psychological, social, legal, and economic harms, including possible negative effects on financial standing, employability, insurability, educational advancement or reputation.
+
+Also, you may include how much you would pay to each subject if you ran the experiment.  That depends on how long it takes a subject to go through your full experiment.  An ethical payment would be around US\$12 per hour of work (which is the minimum wage in California).  If for example an interview takes (in average) 15 minutes, you should pay about US$3. One question that usually emerges about this is whether you can pay more (if you have the money, of course). The answer is yes; but you should beware of paying too much because that could be coercive.
+
+
 ### Unit 12, before the live session
 
-Do a presentation of your **preliminary study design**.
+At this point you should have run an initial pilot with at least a few convenience participants (friends or coworkers) if not a larger pilot and will want to share how this went.
 
 ### Unit 14, before the live session
 
-Please submit the following:
+ 1. Your group will submit a final paper describing your research plans and the results of the pilot. All necessary research materials should be included as an appendix. The report should be about 5-7 pages and should include:
 
-1.  > Research materials needed to execute the study:
-	* study/analysis plan
-	* research protocols
-	* any material required during the research activities (surveys, recruiting ads, etc.)
-2.  > Designs, mockups, and prototypes at the appropriate level of fidelity.
-3.  > Documentation of piloting the study protocol with at least two individuals (Groups of size \>=2).
-4.  > A final paper giving an overview of the proposed study, what you hope to learn from it, and what you learned from the pilot study. It should have the following headers:
-	* Motivation
-	* Related work
-	* Methodology: Ensure your discussion covers foreseeable risks section, with this example requirement *from UW’s IRB Application:*
+    * Motivation: why the topic you chose is relevant and interesting in usable security and privacy.
+    * A concise statement of your research questions and hypotheses, or what it is that you hope to learn
+    * Related work: what works inspired yours or do your results/methodology build upon? (This need *not* be the size of a published paper's related work section. You don't need to read extra papers just to make this look bigger.  Cite what was import *to your team* as you approached this work.)
+    * Methodology.  An overview of the research method, the prepared study materials, and recruiting plan.
+    * A description of the pilot sessions (at least 2 people) and the resulting changes that were made to the research materials
+    * Results and any discussion of results
 
-		> Describe the reasonably foreseeable risks of harm, discomforts, and hazards to the subjects and others of the research procedures. For each harm, discomfort, or hazard:
-		> * Describe the magnitude, probability, duration, and/or reversibility of the harm, discomfort, or hazard, AND
-		> * Describe how the risks will be reduced or managed
-		> Consider possible physical, psychological, social, legal, and economic harms, including possible negative effects on financial standing, employability, insurability, educational advancement or reputation.
-5.  > Results section (forge some results assuming things go wrong)
-6.  > A final project presentation covering a subset of the final paper.
+ 2. A final project presentation covering a subset of the final paper (see live session below).
 
 ### Unit 14, during the live session
 
-Each group will share their project with the class. Be prepared to cover:
+Each group will share their project with the class. We *suggest* you cover:
 
-1.  > Which topic did you choose, and what are the research questions?
-2.  > Which research method did you choose, and why?
-3.  > What material did you prepare for the study?
-4.  > What would be your recruiting plan and target demographics if you were to complete the research?
-5.  > What were the results of the pilot sessions (at least 2 people) and how did the experience influence the research materials?
+   * Which topic did you choose, and what are the research questions?
+   * Which research method did you choose, and why?
+   * What material did you prepare for the study?
+   * What would be your recruiting plan and target demographics if you were to continue the research?
+   * What were the results of the pilot sessions (at least 2 people) and how did the experience influence the research materials?
 
-### Unit 14, two days after live session
+### Two days after Unit 14 live session
 
-Your group will submit a final paper describing your research plans and the results of the pilot. All necessary research materials should be included as an appendix. The report should be about 5-7 pages and should include:
-
-- A summary of why the topic you chose is relevant and interesting in usable security and privacy
-- A concise statement of your research questions and hypotheses, or what it is that you hope to learn
-- A short summary of related work on the topic
-- An overview of the research method, the prepared study materials, and any other information relevant to running the study or the design of the material
-- A recruiting plan, including target demographics for participants
-- A description of the pilot sessions (at least 2 people) and the resulting changes that were made to the research materials
-
-Also, you may include how much you would pay to each subject if you ran the experiment.  That depends on how long it takes a subject to go through your full experiment.  An ethical payment would be around US$12 per hour of work (which is the minimum wage in California).  If for example an interview takes (in average) 15 minutes, you should pay about US$3. One question that usually emerges about this is whether you can pay more (if you have the money, of course). The answer is yes; but you should beware of paying too much because that could be coercive.
+Submit the final draft of your paper with any changes made following feedback from the live session.
