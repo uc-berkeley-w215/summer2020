@@ -89,16 +89,19 @@ At this point you should have run an initial pilot with at least a few convenien
 
 ### Unit 14, before the live session
 
- 1. Your group will submit a final paper describing your research plans and the results of the pilot. All necessary research materials should be included as an appendix. The report should be about 5-7 pages and should include:
+ 1. Your group will submit a content-complete draft of your. It should include:
 
     * Motivation: why the topic you chose is relevant and interesting in usable security and privacy.
     * A concise statement of your research questions and hypotheses, or what it is that you hope to learn
     * Related work: what works inspired yours or do your results/methodology build upon? (This need *not* be the size of a published paper's related work section. You don't need to read extra papers just to make this look bigger.  Cite what was import *to your team* as you approached this work.)
     * Methodology.  An overview of the research method, the prepared study materials, and recruiting plan.
     * A description of the pilot sessions (at least 2 people) and the resulting changes that were made to the research materials
-    * Results and any discussion of results
+    * Results and any discussion of those reuslts.
+
 
  2. A final project presentation covering a subset of the final paper (see live session below).
+
+ Papers in the past have been roughly 5-7 pages.
 
 ### Unit 14, during the live session
 
