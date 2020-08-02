@@ -96,7 +96,7 @@ At this point you should have run an initial pilot with at least a few convenien
     * Related work: what works inspired yours or do your results/methodology build upon? (This need *not* be the size of a published paper's related work section. You don't need to read extra papers just to make this look bigger.  Cite what was import *to your team* as you approached this work.)
     * Methodology.  An overview of the research method, the prepared study materials, and recruiting plan.
     * A description of the pilot sessions (at least 2 people) and the resulting changes that were made to the research materials
-    * Results and any discussion of those reuslts.
+    * Results and any discussion of those results.
 
 
  2. A final project presentation covering a subset of the final paper (see live session below).
