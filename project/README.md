@@ -97,6 +97,7 @@ At this point you should have run an initial pilot with at least a few convenien
     * Methodology.  An overview of the research method, the prepared study materials, and recruiting plan.
     * A description of the pilot sessions (at least 2 people) and the resulting changes that were made to the research materials
     * Results and any discussion of those results.
+    * Acknowledgements, detailing the help your team has received from those outside your project group as well as anyone else.
 
 
  2. A final project presentation covering a subset of the final paper (see live session below).
