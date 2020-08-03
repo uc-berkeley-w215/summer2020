@@ -6,7 +6,7 @@
 
 ### Non-taken readings
 
-  - > [<span class="underline">Necessary but Not Sufficient: Standardized Mechanisms for Privacy Notice and Choice</span>](http://www.jthtl.org/content/articles/V10I2/JTHTLv10i2_Cranor.PDF), by Lorrie Cranor.
+  - > [<span class="underline">Necessary but Not Sufficient: Standardized Mechanisms for Privacy Notice and Choice</span>](http://www.jthtl.org/content/articles/V10I2/JTHTLv10i2_Cranor.PDF), by Lorrie Cranor. *request discussion: Kumud*
 
   - > [<span class="underline">User Interfaces for Privacy
     > Agents</span>](http://lorrie.cranor.org/pubs/privacy-bird-20050714.pdf), by Cranor et al.
