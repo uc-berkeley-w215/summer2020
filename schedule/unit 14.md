@@ -4,9 +4,9 @@
 
   - > [<span class="underline">What Do Online Behavioral Advertising Privacy Disclosures Communicate to Users?</span>](http://www.blaseur.com/papers/wpes2012-obaicons.pdf), by León et al. *Discussion lead: David Ng*
 
-### Non-taken readings
+  - > [<span class="underline">Necessary but Not Sufficient: Standardized Mechanisms for Privacy Notice and Choice</span>](http://www.jthtl.org/content/articles/V10I2/JTHTLv10i2_Cranor.PDF), by Lorrie Cranor. *Discussion lead: Kumud Kalia*
 
-  - > [<span class="underline">Necessary but Not Sufficient: Standardized Mechanisms for Privacy Notice and Choice</span>](http://www.jthtl.org/content/articles/V10I2/JTHTLv10i2_Cranor.PDF), by Lorrie Cranor. *request discussion: Kumud*
+### Non-taken readings
 
   - > [<span class="underline">User Interfaces for Privacy
     > Agents</span>](http://lorrie.cranor.org/pubs/privacy-bird-20050714.pdf), by Cranor et al.
