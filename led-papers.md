@@ -23,6 +23,7 @@
 
 **Kumud Kalia**:
 - "A Week to Remember: The Impact of Browser Warning Storage Policies", by Weinberger and Felt (Unit 11)
+- "Necessary but Not Sufficient: Standardized Mechanisms for Privacy Notice and Choice", by Lorrie Cranor (Unit 14)
 
 **Ramana Kapavarapu**:
 - "Operating System Framed in Case of Mistaken Identity", by Bravo-Lillo et al. (Unit 3)
