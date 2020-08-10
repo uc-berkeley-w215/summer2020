@@ -53,8 +53,8 @@
 **Research goal**: A study of user preference with Contact Tracing App - When presented with the risks of being identified as COVID-19 positive, users are unlikely to self-report using a contact tracing app built on the DP^3T protocol. 
 
 **Documents (in progress)**:
-- [**Main project document**](https://docs.google.com/document/d/1FKP_jbdsaTcGE5-zU595v_sNa7HyTUPqbQH3p3oIKnc/edit?usp=sharing)
+- [**Main project document**](https://docs.google.com/document/d/1pQ9-cS7jzleMt6YF2v3ih6pwkQ9bd92C-R7kYJbvYCk/edit?usp=sharing)
 - [**Informed consent**](https://drive.google.com/file/d/1ytVCMgKAaDFCnl-98rMf9G9c8eFvQFsU/view?usp=sharing)
 - **Experiment ad**: No file.
 - **Other material**: 
-	* [Qualtrics Survey](https://berkeley.qualtrics.com/jfe/form/SV_0MlJxv4Vr8LNxEp)
+	* [Qualtrics Survey](https://berkeley.qualtrics.com/jfe/form/SV_8q9tyNd6E2qjMXz)
