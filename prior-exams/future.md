@@ -19,3 +19,4 @@ If we ask for `n` items (e.g. reasons why a study is flawed) and you can think o
 Make sure to read questions carefully.  If the questions about a hypothetical research study asserts that *"researchers claim `X`is true''*, then `X` may or may not be true.  If the question states that `X` is true, then we are asking you to assume that `X` is indeed true.
 
 Similarly, If we give you a scenario and ask you for problems with it, the problems should be identifiable from the question and not a matter of speculation about details we didn't bother to provide.
+

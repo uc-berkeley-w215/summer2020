@@ -2,32 +2,31 @@
 
 ### Sync Session Time
 
-THURSDAYS@ 4:00pm Pacific
+  - Thursdays@ 4:00pm Pacific
 
-Office hours: Mondays @ 4:00pm Pacific
+### Office hours
+
+  - Mondays @ 4:00pm Pacific via zoom
 
 ### Slack channel
 
-**ucbischool**, channel #w215-XXX
-
-Via web: https://ucbischool.slack.com
+  - [**ucbischool**](https://ucbischool.slack.com), channel #w215-XXX.
 
 ### Instructors
 
-> Cristian Bravo-Lillo, cbravolillo \<a\> berkeley.edu
->
-> Stuart Schechter, imposter \<at\> berkeley.edu
+ -  Cristian Bravo-Lillo, cbravolillo \<a\> berkeley.edu
+
+ -  Stuart Schechter, imposter \<at\> berkeley.edu
 
 ### Course Lead
 
-> Stuart Schechter
+- Stuart Schechter
 
 ### Original Course Creators & Video Lecturers
 
-> [Maritza Johnson](http://maritzajohnson.com/), UC Berkeley School of Information
->
-> [Serge Egelman](https://www.guanotronic.com/~serge/), UC Berkeley and International Computer Science
-> Institute
+- [Maritza Johnson](http://maritzajohnson.com/), UC Berkeley School of Information
+
+- [Serge Egelman](https://www.guanotronic.com/~serge/), UC Berkeley and International Computer Science Institute
 
 ## Course Description
 
@@ -41,25 +40,28 @@ Completion of at least one of the three core courses for the MICS degree program
 
 ## Course Objectives
 
-1.  > Students will learn to identify human factors issues that impact the security and privacy of systems.
+1. Students will learn to identify human factors issues that impact the security and privacy of systems.
 
-2.  > Students will develop skills reading research papers, evaluating their findings, and identifying their limitations.
+2. Students will develop skills reading research papers, evaluating their findings, and identifying their limitations.
 
-3.  > Students will learn multiple experimental approaches to evaluating human factors issues in security and privacy.
+3. Students will learn multiple experimental approaches to evaluating human factors issues in security and privacy.
 
-4.  > Students will learn about current research findings and methods in usable security and privacy.
+4. Students will learn about current research findings and methods in usable security and privacy.
 
 ## Course Evaluation
 
-  - > Async responses and reflections (10%)
-  - > Live session participation (20%)
+  - Async responses and reflections (10%)
+  - Live session participation (20%)
     
-    - > You will lead the discussion of 1-3 papers (depending on course enrollment)
-  - > Assignments (10%)
-    - > Traditional homeworks
-    - > Acting as reviewer or pilot participant for other teams’ course projects
-  - > Midterm (20%)
-  - > [<span class="underline">Final project</span>](/project/) (40%)
+    - You will lead the discussion of 1-3 papers (depending on course enrollment)
+  - Assignments (10%)
+    - Traditional homeworks
+    - Acting as reviewer or pilot participant for other teams’ course projects
+  - Midterm (20%)
+  - [<span class="underline">Final project</span>](/project/) (40%)
+
+Extra credit:
+  - Provide [additional help to other teams](/project/helping-others.md) beyond the minimum required under the Assignments category.
 
 ## Collaboration Policy
 
@@ -80,6 +82,10 @@ Participation and taking an active part in every aspect of the course are key to
 The instructors will also reward participation credit for those who choose to live tweet their experiences reading the assigned research papers (see more in the next section). Tag the tweets with [<span class="underline">\#uc\_berkeley\_w215</span>](https://twitter.com/search?q=%23uc_berkeley_w215).
 
 We would also encourage you to find the authors’ twitter handles and @ them in your tweet. If you have an insight that you’d rather not be made public, the class slack channel may be a more appropriate forum to share those thoughts.
+
+### Your privacy while participating
+
+We use this public GitHub repository to list discussion leads and for students to share course projects. Contact the course instructors if you would prefer a more private option. For example, you may choose to use a pseudonym for discussion leads or share your course project materials only via more private services.
 
 ## Readings
 
