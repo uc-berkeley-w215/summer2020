@@ -1,4 +1,4 @@
-## Unit 3: Research Methods: Experimental – *May 21*
+## Unit 3: Research Methods: Experimental
 
 ### Readings due
 
@@ -12,7 +12,7 @@
 
 ### Assignments due
 
-**Heuristic evaluation** (a method discussed in the async lecture for this unit): Perform a heuristic evaluation of a security feature in your web browser or on a website. You may do this either in pairs, or individually. You may find useful the classic article on [how to conduct an heuristic evaluation](https://www.nngroup.com/articles/how-to-conduct-a-heuristic-evaluation/),by Jakob Nielsen.
+**Heuristic evaluation** (a method discussed in the async lecture for this unit): Perform a heuristic evaluation of a security feature in your web browser or on a website. You may do this either in pairs, or individually. You may find useful the classic article on [how to conduct an heuristic evaluation](https://www.nngroup.com/articles/how-to-conduct-a-heuristic-evaluation/), by Jakob Nielsen.
 
 1. Choose a set of heuristics. You may pick some or all of [Nielsen's 10 usability heuristics](https://www.nngroup.com/articles/ten-usability-heuristics/), or Shneiderman's 8 golden rules of interface design (described in Chapter 10 of Lazar's book).
 1. Apply those heuristics to a security feature in an application or website, or to a feature that impacts security even though security is not its primary function.
@@ -24,7 +24,7 @@
 ### Synchronous discussion agenda
 
 * Discuss answers to the assignment (15 minutes)
-* Discuss paper. (15 minutes) \[Cristian\]
+* Discuss paper (10 minutes) \[Cristian\]
 * Split into breakout groups to discuss the following: \[Cristian\]
 	
 	> *“Imagine you are the head of engineering for a software company. Based on reports from customers, you are aware of some usability issues in the latest version of your product. How would you go about designing a study to determine how prevalent this problem is across your user base?”*

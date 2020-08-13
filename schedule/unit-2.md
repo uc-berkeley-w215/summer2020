@@ -1,5 +1,5 @@
 
-## Unit 2: Studying Decision making – *May 14*
+## Unit 2: Studying Decision making
 
 ### Readings due
 
@@ -33,13 +33,9 @@
 
 ### Synchronous discussion agenda
 
-  - > Apology \[ Stuart\]
-
-  - > First two presentations on user biases \[Stuart\]
+  - > Apology \[Stuart\]
 
   - > Address those questions about ethics training that can’t wait until everyone has completed it \[Stuart\]
-
-  - > Remaining presentations on user biases \[Stuart\]
 
   - > Discuss readings \[Cristian\]
 

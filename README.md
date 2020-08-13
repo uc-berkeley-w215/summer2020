@@ -8,7 +8,7 @@ Office hours: Mondays @ 4:00pm Pacific
 
 ### Slack channel
 
-**ucbischool**, channel #w215-summer-2020.
+**ucbischool**, channel #w215-XXX
 
 Via web: https://ucbischool.slack.com
 
@@ -98,17 +98,17 @@ When it’s your turn to lead the 10-15 minute discussion of the paper, you'll w
 
 # [Schedule](/schedule)
 
- - [Unit 1: Human–Computer Interaction](./schedule/unit%20%201.md)
- - [Unit 2: Studying Decision making](./schedule/unit%20%202.md)
- - [Unit 3: Research Methods: Experimental](./schedule/unit%20%203.md)
- - [Unit 4: Research Methods: Descriptive and Relational](./schedule/unit%20%204.md)
- - [Unit 5: Statistics](./schedule/unit%20%205.md)
- - [Unit 6: Usable Security](./schedule/unit%20%206.md)
- - [Unit 7: Privacy](./schedule/unit%20%207.md)
- - [Unit 8: Midterm](./schedule/unit%20%208.md)
- - [Unit 9: Authentication & Trusted Path](./schedule/unit%20%209.md)
- - [Unit 10: Access Control](./schedule/unit%2010.md)
- - [Unit 11: Warnings](./schedule/unit%2011.md)
- - [Unit 12: Mobile Permissions](./schedule/unit%2012.md)
- - [Unit 13: Secure Communication](./schedule/unit%2013.md)
- - [Unit 14: Privacy Policies](./schedule/unit%2014.md)
+ - [Unit 1: Human–Computer Interaction](./schedule/unit-1.md)
+ - [Unit 2: Studying Decision making](./schedule/unit-2.md)
+ - [Unit 3: Research Methods: Experimental](./schedule/unit-3.md)
+ - [Unit 4: Research Methods: Descriptive and Relational](./schedule/unit-4.md)
+ - [Unit 5: Statistics](./schedule/unit-5.md)
+ - [Unit 6: Usable Security](./schedule/unit-6.md)
+ - [Unit 7: Privacy](./schedule/unit-7.md)
+ - [Unit 8: Midterm](./schedule/unit-8.md)
+ - [Unit 9: Authentication & Trusted Path](./schedule/unit-9.md)
+ - [Unit 10: Access Control](./schedule/unit-10.md)
+ - [Unit 11: Warnings](./schedule/unit-11.md)
+ - [Unit 12: Mobile Permissions](./schedule/unit-12.md)
+ - [Unit 13: Secure Communication](./schedule/unit-13.md)
+ - [Unit 14: Privacy Policies](./schedule/unit-14.md)

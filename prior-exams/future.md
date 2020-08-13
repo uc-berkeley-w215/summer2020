@@ -16,7 +16,6 @@ Since ethics, like security, is both critical but often a secondary task, we may
 
 If we ask for `n` items (e.g. reasons why a study is flawed) and you can think of more than `n`, you may provide more than `n`.  If `n` of your answers are valid, and the others are not unreasonable (e.g. you're not just throwing all plausible answers out there not knowing if each one is right or wrong) we'll give you full credit.
 
-Make sure to read questions carefully.  If the questions about a hypothetical research study asserts that *"researchers claim `x`is true''*, then `x` may or may not be true.  If the question states that `x` is true, then we are asking you to assume that `x` is indeed true.
+Make sure to read questions carefully.  If the questions about a hypothetical research study asserts that *"researchers claim `X`is true''*, then `X` may or may not be true.  If the question states that `X` is true, then we are asking you to assume that `X` is indeed true.
 
 Similarly, If we give you a scenario and ask you for problems with it, the problems should be identifiable from the question and not a matter of speculation about details we didn't bother to provide.
-

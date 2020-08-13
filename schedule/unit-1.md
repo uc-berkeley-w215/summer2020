@@ -1,4 +1,4 @@
-## Unit 1: Human–Computer Interaction – *May 7*
+## Unit 1: Human–Computer Interaction
 
 ### Readings due
 
@@ -8,7 +8,7 @@
   - > [<span class="underline">Why Johnny Can’t Encrypt</span>](http://citeseerx.ist.psu.edu/viewdoc/summary?doi=10.1.1.40.9279), by Whitten and Tygar.
   - > [<span class="underline">Simson Garfinkel’s Thesis</span>](https://simson.net/thesis/), Chapter 1.1–1.5, pp. 13–34, and Chapter 10.3 Patterns for Overall Security
 
-  
+
 ### Assignments due
 
 **Assignment 0** is to introduce yourself ot the class in the slack group. You may (but do not have to) provide such background as your prior education, work experience of relevance, and any topics of interest you have in usable privacy and security. The only requirement is that you record your name, as you would like it to be pronounced, and share the recording with your introduction.
@@ -36,4 +36,3 @@ Submit as **assignment 1** a list of three user interfaces or user experiences *
   - Discussion of readings:
 	- \[Cristian: Simson Garfinkel’s Thesis\]
 	- \[Stuart: Why Johnny Can’t Encrypt, Password Security, a Case History\]
-
