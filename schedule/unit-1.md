@@ -36,3 +36,4 @@ Submit as **assignment 1** a list of three user interfaces or user experiences *
   - Discussion of readings:
 	- \[Cristian: Simson Garfinkel’s Thesis\]
 	- \[Stuart: Why Johnny Can’t Encrypt, Password Security, a Case History\]
+

@@ -2,19 +2,19 @@
 
 ### Readings due
 
-  - > Lazar et al., Chapter 11 Analyzing Qualitative Data
+  - Lazar et al., Chapter 11 Analyzing Qualitative Data
 
-  - > [<span class="underline">No One Can Hack My Mind</span>](https://www.usenix.org/system/files/conference/soups2015/soups15-paper-ion.pdf), by Ion, Reeder, and Consolvo.
+  - [No One Can Hack My Mind](https://www.usenix.org/system/files/conference/soups2015/soups15-paper-ion.pdf), by Ion, Reeder, and Consolvo.
 
-  - > [<span class="underline">The Quest to Replace Passwords: A Framework for Comparative Evaluation of Web Authentication Schemes</span>](https://www.cl.cam.ac.uk/~fms27/papers/2012-BonneauHerOorSta-password--oakland.pdf), by Bonneau et al.
+  - [The Quest to Replace Passwords: A Framework Comparative Evaluation of Web Authentication Schemes](https://www.cl.cam.ac.uk/~fms27/papers/2012-BonneauHerOorSta-password--oakland.pdf), by Bonneau et al.
 
 ### A brief note about framing a research problem
 
 In the breakout group projects that we started during class 4 and presented in class 5, we hope you all learned that:
 
-1.  > Understanding the specifics of a problem is an essential first step and worth your time.
+1. Understanding the specifics of a problem is an essential first step and worth your time.
     
-2. > Different assumptions of costs and benefits can lead to very different research designs.
+2. Different assumptions of costs and benefits can lead to very different research designs.
 
 Therefore, when you are pitching projects ideas, put 80% of your effort into writing a crisp and clear definition of the problem you want to investigate or hypothesis you wish to test, and then 20% of effort into saying which research method (survey, lab study, field study, etc.) would best apply to the problem.
 

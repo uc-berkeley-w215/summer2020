@@ -1,21 +1,21 @@
 ## Unit 11: Warnings
 
-### Possible readings (actual readings TBD 8 days before)
+### Readings you may choose to present (students not presenting should read at least 1 or skim 3)
 
-  - > [<span class="underline">You’ve Been Warned: An Empirical Study of the Effectiveness of Web Browser Phishing Warnings</span>](http://www.guanotronic.com/~serge/papers/warned.pdf), *by Egelman et al.*
+- [A Week to Remember: The Impact of Browser Warning Storage Policies](https://www.usenix.org/system/files/conference/soups2016/soups2016-paper-weinberger.pdf), by Weinberger and Felt.
 
-  - > [<span class="underline">A Week to Remember: The Impact of Browser Warning Storage Policies</span>](https://www.usenix.org/system/files/conference/soups2016/soups2016-paper-weinberger.pdf), *by Weinberger and Felt*
+- [You’ve Been Warned: An Empirical Study of the Effectiveness of Web Browser Phishing Warnings](http://www.guanotronic.com/~serge/papers/warned.pdf), by Egelman et al.
 
-  - > [<span class="underline">Put your warning where your link is: Improving and evaluating email phishing warnings</span>](https://dl.acm.org/doi/pdf/10.1145/3290605.3300748), *by Petelka et al.*
+- [Put your warning where your link is: Improving and evaluating email phishing warnings](https://dl.acm.org/doi/pdf/10.1145/3290605.3300748), by Petelka et al. [(cached in course folder)](https://drive.google.com/file/d/1HbbNACeRtJBcfSxI2HXXfQ8Xq0XCzWuL/view?usp=sharing)
 
 ### Assignment
 
-  - > Submit updated drafts of final project plans
+  - Submit updated drafts of final project plans
 
-  - > Review or pilot study materials for another project team
+  - Review or pilot study materials for another project team
 
 ### Synchronous discussion agenda
 
-  - > Discuss assigned readings (\~45 minutes)
+  - Discuss assigned readings (\~40 minutes)
 
-  - > Discuss projects progress (\~45 minutes)
+  - 10-minute presentations from each project group

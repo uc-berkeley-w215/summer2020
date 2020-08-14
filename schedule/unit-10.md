@@ -18,13 +18,13 @@
 
 ### Assignments due
 
-  - > Second discussion-lead for those who haven’t done two already
-    > (Previous term did: Assignment 8: Research paper summary)
+  - Second discussion-lead for those who haven’t done two already (previous term did: Assignment 8: Research paper summary)
 
 ### Synchronous discussion agenda
 
-  - > Discuss the assigned reading (\~60 minutes)
+  - Discuss the assigned reading (\~60 minutes)
 
-  - > Project teams give project update (10m per group)
+  - Project teams give project update (10m per group)
 
-  - > Remainder of time for project team breakouts.
+  - Remainder of time for project team breakouts.
+

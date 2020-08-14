@@ -2,7 +2,7 @@
 
 ### Readings due
 
-  - > Lazar et al., Chapter 9 Ethnography
+  - Lazar et al., Chapter 9 Ethnography
 
 ### Assignments due
 
@@ -10,4 +10,4 @@
 
 ### Synchronous agenda
 
-> **Midterm**
+**Midterm**

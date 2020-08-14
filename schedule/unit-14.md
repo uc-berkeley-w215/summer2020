@@ -1,21 +1,25 @@
 ## Unit 14: Privacy Policies
 
-### Possible readings (actual readings TBD)
+### Readings to be presented
 
-  - > [<span class="underline">Necessary but Not Sufficient: Standardized Mechanisms for Privacy Notice and Choice</span>](http://www.jthtl.org/content/articles/V10I2/JTHTLv10i2_Cranor.PDF) (2012), by Lorrie Cranor.
+### Readings you may choose to present (students not presenting should read at least 1 or skim 3)
 
-  - > [<span class="underline">User Interfaces for Privacy Agents</span>](http://lorrie.cranor.org/pubs/privacy-bird-20050714.pdf) (2005), by Cranor et al.
+  - [What Do Online Behavioral Advertising Privacy Disclosures Communicate to Users?](http://www.blaseur.com/papers/wpes2012-obaicons.pdf), by León et al.
 
-  - > [<span class="underline">What Do Online Behavioral Advertising Privacy Disclosures Communicate to Users?</span>](http://www.blaseur.com/papers/wpes2012-obaicons.pdf) (2012), by León et al.
+  - [Necessary but Not Sufficient: Standardized Mechanisms for Privacy Notice and Choice](http://www.jthtl.org/content/articles/V10I2/JTHTLv10i2_Cranor.PDF), by Lorrie Cranor.
 
-  - > [<span class="underline">A Comparative Study of Online Privacy Policies and Formats</span>](http://lorrie.cranor.org/pubs/authors-version-PETS-formats.pdf) (2009), by McDonalds et al.
+  - [User Interfaces for Privacy Agents](http://lorrie.cranor.org/pubs/privacy-bird-20050714.pdf), by Cranor et al.
+
+  - [A Comparative Study of Online Privacy Policies and Formats](http://lorrie.cranor.org/pubs/authors-version-PETS-formats.pdf), by McDonald et al.
 
 ### Assignment
 
-  - > Final project due
+  - Final project due
 
 ### Synchronous discussion agenda
 
-  - > Final project presentations (15 minutes, 5-10 for presentation)
+  - Paper presentation and discussion (10 minutes)
 
-  - > Paper discussions (45 minutes)
+  - Final project presentations (15 minutes per team: 10 for presentation and 5 for questions)
+
+  - Projects and course wrap-up (15 minutes)
